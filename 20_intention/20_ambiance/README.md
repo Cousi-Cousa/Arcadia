@@ -12,7 +12,7 @@
 
 ## Références multimédias
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=video-id)
+<iframe src="https://giphy.com/embed/video-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## Références
 
