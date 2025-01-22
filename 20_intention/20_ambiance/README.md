@@ -1,5 +1,7 @@
 # Ambiance
 
+## Inspirations visuelles
+
 ![moodboard](/img/style.jpg)
 ![moodboard](/img/chevalier.jpg)
 ![moodboard](/img/personnage.jpg)
@@ -7,6 +9,8 @@
 ![moodboard](/img/decor1.png)
 ![moodboard](/img/decor2.png)
 ![moodboard](/img/coolor.png)
+
+Références multimédias
 
 ## Références
 
