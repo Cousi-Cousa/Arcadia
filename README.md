@@ -3,16 +3,8 @@
 Arcadia est une expérience interactive nostalgique qui reprend le concepte des vieux jeux d'arcade.
 
 ## Bande Annonce
-
-## Devrait être présent sur cette page:
-
-* Titre
-* Bande-annonce
-* Résumé du projet (~ 100 mots)
-* Documentation vidéo de l'installation en action
-* Gallerie photo du projet réalisé
-
-## Gallerie image exemple
+## Documentation vidéo de l'installation en action
+## Gallerie photo du projet réalisé
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
 * ![Image 2](https://placehold.co/400x400?text=2+image)
