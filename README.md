@@ -1,4 +1,4 @@
-# Arcadi
+# Arcadia
 
 Arcadia est une expérience interactive nostalgique qui reprend le concepte des vieux jeux d'arcade.
 
