@@ -1,6 +1,6 @@
 # William Beauvais
 
- ![William Beauvais]( https://fakeimg.pl/400x400?text=w)
+![William Beauvais](/img/DSC09986.JPG)
 
  ## Réalisations
 
