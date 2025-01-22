@@ -1,6 +1,6 @@
 # Ambiance
 
-![moodboard](img/style.jpg)
+![moodboard](/img/style.jpg)
 
 ## Références
 
