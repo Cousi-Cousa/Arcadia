@@ -1,6 +1,6 @@
 # Anton Nikulin
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=x)
+ ![Anton Nikulin]( https://fakeimg.pl/400x400?text=x)
 
  ## Réalisations
 
