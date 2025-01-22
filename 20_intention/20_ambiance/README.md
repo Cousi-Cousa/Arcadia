@@ -1,6 +1,7 @@
 # Ambiance
 
 ![moodboard](/img/style.jpg)
+![moodboard](/img/chevalier.jpg)
 ![moodboard](/img/personnage.jpg)
 ![moodboard](/img/menu.jpg)
 ![moodboard](/img/decor1.png)
