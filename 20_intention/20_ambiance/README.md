@@ -1,6 +1,6 @@
 # Ambiance
 
-<!-- Ici mettre tous les documents et références associés à l'établissement de l'ambiance du projet   -->
+![moodboard](img/style)
 
 ## Références
 
