@@ -11,7 +11,7 @@
 ![moodboard](/img/coolor.png)
 
 ## Références multimédias
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4.jpg)](https://www.youtube.com/watch?v=vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4)
+[!(https://img.youtube.com/vi/vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4.jpg)](https://www.youtube.com/watch?v=vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4)
 
 ## Références
 
