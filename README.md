@@ -2,6 +2,8 @@
 
 Arcadia est une expérience interactive nostalgique qui reprend le concepte des vieux jeux d'arcade.
 
+## Bande Annonce
+
 ## Devrait être présent sur cette page:
 
 * Titre
