@@ -1,7 +1,7 @@
 # Arcadia
 
 ## Synopsis
-Arcadia est un projet interactif multimédia qui propose aux participants un voyage nostalgique à travers l'histoire du jeu vidéo. Nous construisons une borne d'arcade sur mesure, intégrant un jeu de plateforme rétro conçu de A à Z.
+Arcadia est un projet interactif multimédia qui propose aux participants un voyage nostalgique à travers le temps. Nous construisons une borne d'arcade sur mesure, intégrant un jeu de plateforme rétro conçu de A à Z.
 
 ## Concept
 L'objectif d'Arcadia est de recréer l'expérience authentique des salles d'arcade en offrant un jeu qui rend hommage aux classiques du genre. Chaque élément, du design de la borne aux graphismes pixelisés du jeu, est pensé pour plonger le public dans une atmosphère vintage.
