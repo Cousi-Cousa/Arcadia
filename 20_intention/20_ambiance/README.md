@@ -11,8 +11,7 @@
 ![moodboard](/img/coolor.png)
 
 ## Références multimédias
-
-<iframe src="https://giphy.com/embed/video-id" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4/0.jpg)](https://www.youtube.com/watch?v=vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4)
 
 ## Références
 
