@@ -1,6 +1,6 @@
-# 58266b-experience-modele
+# Arcadia
 
-Modèle de publication pour le cours 582 66B experience multimedia interactive
+Arcadia est une expérience interactive nostalgique qui reprend le concepte des vieux jeux d'arcade.
 
 ## Devrait être présent sur cette page:
 
