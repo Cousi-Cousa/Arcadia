@@ -10,7 +10,7 @@
 - Visuels du jeu
 - Visuels de la borne d'arcade
 
-![William Beauvais]( https://fakeimg.pl/400x400?text=W)
+![William Beauvais](/img/DSC09986.JPG)
 ## Anton Nikulin
 - Programmation du jeu
 - Construction de la borne d'arcade
