@@ -25,4 +25,8 @@
 
 ## Comportement de l'interacteur
 ### Comment gérer le comportement de l'interacteur ?
--On va utiliser la limitation dynamique des choix offerts
+-On va utiliser la limitation dynamique des choix offerts, donc vu qu'il n'y a seulement une option (Avancer dans le jeu), ça force l'interacteur à finir le jeu.
+
+-À des moments, des gardes vont bloquer des portes et il va falloir les tuer pour passer.
+
+-Le score est uniquement basé sur le temps, donc les gens vont vouloir finir le jeu dans un temps record.
