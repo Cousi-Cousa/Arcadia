@@ -19,3 +19,5 @@
 * Son d'impacte de l'épée contre l'ennemi (Sourd et granuleux)
 * Son d'attaque de l'ennemi contre le héros (Sourd et granuleux)
 * Son de vie perdu (aigu et en pente)
+
+sfeeferge4
