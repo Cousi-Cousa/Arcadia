@@ -15,4 +15,4 @@
   ## Anton Nikulin
 - Programmation du jeu
 - Construction de la borne d'arcade
-* [![anton_nikulin](https://fakeimg.pl/400x400?text=X)](anton_nikulin/)
+* [![anton_nikulin](/img/)](anton_nikulin/)
