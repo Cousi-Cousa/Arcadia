@@ -18,7 +18,7 @@
 ### Aperçu de la Semaine 2  
 <table>
   <tr>
-    <td><img src="images for water/Screenshot 2024-11-03 210253.png" alt="Image 1" ></td>
+    <td><img src="semain2.png" alt="Image 1" ></td>
   </tr>
 </table>
 
