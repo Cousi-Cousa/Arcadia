@@ -15,4 +15,4 @@
   ## Anton Nikulin
 - Programmation du jeu
 - Construction de la borne d'arcade
-* [![anton_nikulin](/img/)](anton_nikulin/)
+* [![anton_nikulin](/img/Image.jfif)](anton_nikulin/)
