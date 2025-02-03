@@ -10,6 +10,6 @@
 - Concrétiser nos idées pour avoir un projet qui tient la route
 ### Semaine 2
 - J'ai fais la première image du personnage principal
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+* ![S2 Design du chevalier](chevalier.png)
 - J'ai fais un plan de la map (J'ai appris le logiciel Tiled)
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+* ![S2 Plan de la map](plan_map.png)
