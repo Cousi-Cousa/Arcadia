@@ -1,6 +1,11 @@
 # Scénarimage
 
-<!-- Ici mettre tous les documents et références associés au scénarimage  -->
+### Aperçu de la Semaine 2  
+<table>
+  <tr>
+    <td><img src="semain2.png" alt="Image 1" ></td>
+  </tr>
+</table>
 
 
 ## Réferences 
