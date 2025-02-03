@@ -11,10 +11,9 @@
 ## Semaine 2  
 - J'ai créé un prototype du jeu, comprenant :  
   - Le joueur avec plusieurs de ses animations.  
-  - Un ennemi avec certaines de ses animations.  
+  - Un ennemi avec certaines de ses animations.
+  - Un arrière-plan en couches créant un effet de mouvement.  
 
-## Résultats  
-- Grâce à ces étapes clés, je peux désormais commencer à intégrer les éléments finaux qui seront présents dans le jeu final.  
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
