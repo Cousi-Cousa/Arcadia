@@ -3,8 +3,8 @@
 ## Dominic Yale
 - Audio du jeu
 - Programmation du jeu
-* [![dominic_yale]( /img/img_dom.JPG)](dominic_yale/)
-* [![william_beauvais](img/DSC09986.JPG)](william_beauvais/)
+* [![dominic_yale](/img/img_dom.JPG)](dominic_yale/)
+* [![william_beauvais](/img/DSC09986.JPG)](william_beauvais/)
 * [![Membre_X](https://fakeimg.pl/400x400?text=X)](membre_x/)
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
