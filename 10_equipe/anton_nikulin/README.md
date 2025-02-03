@@ -15,7 +15,8 @@
   - Un arrière-plan en couches créant un effet de mouvement.  
 
 
- <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+### Aperçu de la Semaine 2  
+![Prototype de la Semaine 2](semaine2.png)
 
  semain, coomencer le tile
 
