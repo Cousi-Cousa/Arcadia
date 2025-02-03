@@ -4,7 +4,7 @@
 - Audio du jeu
 - Programmation du jeu
 * [![dominic_yale](/img/img_dom.JPG)](dominic_yale/)
-* 
+
   ## William Beauvais
 - Visuels du jeu
 - Visuels de la borne d'arcade
