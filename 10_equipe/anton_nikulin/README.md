@@ -21,7 +21,3 @@
     <td><img src="semain2.png" alt="Image 1" ></td>
   </tr>
 </table>
-
- semain, coomencer le tile
-
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
