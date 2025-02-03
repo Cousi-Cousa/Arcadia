@@ -1,6 +1,6 @@
 # Scénarimage
 
-### Aperçu de la Semaine 2  
+### Première version de la carte du jeu
 <table>
   <tr>
     <td><img src="mapv1.png" alt="Image 1" ></td>
