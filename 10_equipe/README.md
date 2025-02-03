@@ -3,7 +3,7 @@
 ## Dominic Yale
 - Audio du jeu
 - Programmation du jeu
-* [![Membre_V](/img/img_dom.JPG)](membre_v/)
+* [![Membre_V]( /img/img_dom.JPG)](membre_v/)
 * [![Membre_W](https://fakeimg.pl/400x400?text=W)](membre_w/)
 * [![Membre_X](https://fakeimg.pl/400x400?text=X)](membre_x/)
 
