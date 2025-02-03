@@ -13,14 +13,14 @@
 ## Inspirations multimédias
 
 ### thrames sonores
-[![8-Bit Video Game Music - "8 Bit Adventure" - Royalty Free](https://img.youtube.com/vi/vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4.jpg)](https://www.youtube.com/watch?v=vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4)
+[![8-Bit Video Game Music - "8 Bit Adventure" - Royalty Free]()](https://www.youtube.com/watch?v=vIS2L0ehagc&list=PL170TfEhZz-_5GUY4IEn6tk8dVVCj3gLI&index=4)
 
-[![Poisonous Bite](https://img.youtube.com/vi/AnW1JtENMS4.jpg)](https://www.youtube.com/watch?v=AnW1JtENMS4)
+[![Poisonous Bite]()](https://www.youtube.com/watch?v=AnW1JtENMS4)
 
-[![A Lonely Cherry Tree 🌸](https://img.youtube.com/vi/D5L36JDKxR0.jpg)](https://www.youtube.com/watch?v=D5L36JDKxR0)
+[![A Lonely Cherry Tree 🌸]()](https://www.youtube.com/watch?v=D5L36JDKxR0)
 
 ### effets sonores
-[![8-Bit Jump Sound Effect](https://img.youtube.com/vi/D5L36JDKxR0.jpg)](https://www.youtube.com/watch?v=Y8bSsRVr3Yg)
+[![8-Bit Jump Sound Effect]()](https://www.youtube.com/watch?v=Y8bSsRVr3Yg)
 
 
 ## Références
