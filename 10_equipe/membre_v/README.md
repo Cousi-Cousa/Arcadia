@@ -1,6 +1,6 @@
 # Dominic Yale
 
- ![Dominic Yale]( https://fakeimg.pl/400x400?text=v)
+ ![Dominic Yale](https://fakeimg.pl/400x400?text=v)
 
  ## Réalisations
 
