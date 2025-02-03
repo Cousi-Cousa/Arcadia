@@ -13,3 +13,9 @@
 * ![S2 Design du chevalier](chevalier.png)
 - J'ai fais un plan de la map (J'ai appris le logiciel Tiled)
 * ![S2 Plan de la map](plan_map.png)
+### Semaine 3
+### Semaine 4
+### Semaine 5
+### Semaine 6
+### Semaine 7
+### Semaine 8
