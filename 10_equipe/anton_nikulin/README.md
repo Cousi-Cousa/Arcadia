@@ -16,7 +16,11 @@
 
 
 ### Aperçu de la Semaine 2  
-![Prototype de la Semaine 2](semaine2.png)
+<table>
+  <tr>
+    <td><img src="images for water/Screenshot 2024-11-03 210253.png" alt="Image 1" ></td>
+  </tr>
+</table>
 
  semain, coomencer le tile
 
