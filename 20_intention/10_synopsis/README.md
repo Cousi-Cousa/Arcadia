@@ -3,6 +3,9 @@
 ## Synopsis
 Arcadia est un projet interactif multimédia qui propose aux participants un voyage nostalgique à travers le temps. Nous construisons une borne d'arcade sur mesure, intégrant un jeu de plateforme rétro conçu de A à Z.
 
+Idée de synopsis:
+- Après s'être fait attaquer par d'étranges créatures, Le roi décide d'envoyer son plus fidèle chevalier en éclaireur afin que celui-ci trouve la source du problème. En arrivant au coeur de la forêt, le chevalier se rend compte qu'un étrange artefact absorbe la vie de la forêt. Le chevalier essaie donc de la détruire en vain. Soudainement un esprit apparait. L'esprit se présente sous le nom de Lavar et assume être responsable de la corruption de la forêt. Il explique au chevalier que son plus grand souhait était de redevenir jeune, il a donc essayé d'absorber la vie de la forêt en y plaçant un artefact maudit. N'étant pas assez fort pour contenir toute cette puissante magie, il mourût d'un coup sec. Il explique alors au chevalier que la seule façon de détruire l'artefact est en trouvant les trois morceaux de parchemin sur lesquelles se trouvent la formule magique faite pour arrêter la corruption une bonne fois pour toute.
+
 ## Concept
 L'objectif d'Arcadia est de recréer l'expérience authentique des salles d'arcade en offrant un jeu qui rend hommage aux classiques du genre. Chaque élément, du design de la borne aux graphismes pixelisés du jeu, est pensé pour plonger le public dans une atmosphère vintage.
 
