@@ -4,7 +4,7 @@
 
 
 Scénarisation: 
-1- Objectif : [personnage] -­> [3 parchemins] -> [artefact] -> [conclusion]
+1- Objectif : [personnage] -­> [3 parchemins] -> [artefact] -> [conclusion] </br>
 2- Défis : - champignon
            - slime (moisisure)
            - grenouille (dégats à distance3/bouge pas)
