@@ -9,7 +9,7 @@
 ## Mesure
 * Bartop: 33 po
 
-![plan](/img/img/Plan Arcade Marchine System Original.jpg)
+![plan](/img/Plan Arcade Marchine System Original.jpg)
 
 
 ## Tableau par semaine
