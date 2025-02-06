@@ -7,8 +7,8 @@
 * Mettre des liens vers votre outil de gestion de projets ici
 
 ## Mesure
-* Bartop: 33 po (chariot des profs)
-
+* mesure de stand idéal: 33 po (chariot des profs)
+* bartop: 26”largeur x 24”hauteur x 17”profondeur
 ![plan](/img/plan_arcade.png)
 
 
