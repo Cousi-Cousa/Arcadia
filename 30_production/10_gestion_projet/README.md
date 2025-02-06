@@ -7,7 +7,7 @@
 * Mettre des liens vers votre outil de gestion de projets ici
 
 ## Mesure
-* Bartop: 33 po
+* Bartop: 33 po (chariot des profs)
 
 ![plan](/img/plan_arcade.png)
 
