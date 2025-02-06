@@ -7,7 +7,8 @@
 1- Objectif : [personnage] -­> [3 parchemins] -> [artefact] -> [conclusion] </br>
 2- Défis : - champignon </br>
            - slime (moisisure) </br>
-           - grenouille (dégats à distance/bouge pas)
+           - grenouille (dégats à distance/bouge pas) </br>
+           - map
 
 ## Références
 
