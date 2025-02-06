@@ -19,6 +19,8 @@ Le projet Arcadia comprend la conception et la fabrication d'une borne d'arcade 
 - L'objectif est de sauver la forêt. Pour y arriver, le joueur doit voyager à travers la map afin de trouver les morceaux de parchemins qui ont été dispersé par le sorcier. Quand le parchemin est complet, le joueur doit se rendre à coté de l'artefact pour récité la formule magique et sauvé la forêt magique.
 
 - Éléments du HUD: Les vies, les morceaux de parchemins,
+
+- Objets: boules de vie, morceaux de parchemins
 ## Références
 
 * [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
