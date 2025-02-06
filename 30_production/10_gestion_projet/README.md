@@ -9,7 +9,7 @@
 ## Mesure
 * Bartop: 33 po
 
-![plan](/img/plan_arcade.jpg)
+![plan](/img/plan_arcade.png)
 
 
 ## Tableau par semaine
