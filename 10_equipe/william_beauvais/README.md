@@ -15,6 +15,7 @@
 ### Semaine 3
 - Reconceptualisation du jeu qui nous permet maintenant d'avoir un projet qui tient la route
 - Toutes les animations du personnage principal sont faites
+* ![S3 Animation du chevalier](chevalier_attaque.png)
 
 ### Semaine 4
 ### Semaine 5
