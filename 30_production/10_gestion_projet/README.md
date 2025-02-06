@@ -4,7 +4,11 @@
 
 * Plus précisément, le modèle "Product Launch" (Lancement de produit) 
 
-* Mettre des liens vers votre outil de gestion de projets ici  
+* Mettre des liens vers votre outil de gestion de projets ici
+
+## Mesure
+* Bartop: 33 po
+
 
 
 
