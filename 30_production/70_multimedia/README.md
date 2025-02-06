@@ -20,7 +20,7 @@
 * Son d'attaque de l'ennemi contre le héros (Sourd et granuleux)
 * Son de vie perdu (aigu et en pente)
 
-### Code à écrire  
+## Code à écrire  
 
 ### Semaine 2  
 - Terminer l'ajout des animations, y compris les attaques et les sauts.  
@@ -33,7 +33,7 @@
 - Finaliser les scènes du menu principal.  
 - Mettre en place le système de score et de temps.  
 
-## Liste des tâches  
+### Liste des tâches  
 
 - [ ] Code des ennemis  
 - [ ] Code du boss  
@@ -41,3 +41,5 @@
 - [ ] Animations du joueur (toutes les animations)  
 - [ ] Code du menu principal  
 - [ ] Code du système de temps et de score  
+
+## Visuels à créer
