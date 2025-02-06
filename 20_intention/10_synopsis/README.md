@@ -21,6 +21,10 @@ Le projet Arcadia comprend la conception et la fabrication d'une borne d'arcade 
 - Éléments du HUD: Les vies, les morceaux de parchemins,
 
 - Objets: boules de vie, morceaux de parchemins
+
+- Ennemis: champignons corrompus, limaces empoisonnées ou slime, crapeau statique(attaque de langue)
+
+  
 ## Références
 
 * [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
