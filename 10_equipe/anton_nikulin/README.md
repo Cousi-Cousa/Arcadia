@@ -21,3 +21,14 @@
     <td><img src="semain2.png" alt="Image 1" ></td>
   </tr>
 </table>
+
+### Semaine 3  
+- J'ai réalisé d'énormes avancées dans le code du jeu.  
+- Ajout des deux principaux ennemis.  
+- Implémentation du système de combat.  
+- Intégration de nombreux assets visuels créés pour le jeu.  
+
+Ces progrès permettent maintenant de donner plus de vie et d'interactivité au jeu, en rendant le gameplay plus dynamique et fluide.  
+
+### Vidéo de la Semaine 3  
+[Voir la vidéo](vid1.mov)
