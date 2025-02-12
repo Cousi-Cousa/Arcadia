@@ -31,8 +31,12 @@
 Ces progrès permettent maintenant de donner plus de vie et d'interactivité au jeu, en rendant le gameplay plus dynamique et fluide.  
 
 #### Aperçus de la Semaine 3  
-![Ennemis et Combat](semaine31.png)  
-![Effets visuels et Mécaniques](semaine32.png)  
+<table>
+  <tr>
+    <td><img src="semain31.png" alt="Image 2" ></td>
+    <td><img src="semain32.png" alt="Image 3" ></td>
+  </tr>
+</table>
 
 ### Vidéo de la Semaine 3  
 [Voir la vidéo](vid1.mov)
