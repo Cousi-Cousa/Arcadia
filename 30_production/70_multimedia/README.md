@@ -16,9 +16,14 @@
 
 * Son de saut (sourd, style vieu jeu vidéo)
 * Son d'un coup d'épée (aigu et en pente)
-* Son d'impacte de l'épée contre l'ennemi (Sourd et granuleux)
-* Son d'attaque de l'ennemi contre le héros (Sourd et granuleux)
+* Son de blessure de l'ennemi (son de bulle aigu)
+* Son de mort de l'ennemi (son de bulle grave)
 * Son de vie perdu (aigu et en pente)
+* Son de vie gagnée (aigu)
+* Son d'atterissage (simple et étouffé)
+* Son de pas (clap clap)
+* Son lorqu'on rammasse un morceau de manuscrit (notes vitreuses et aigues qui montent)
+* Son de la corruption faite à l'artefact (ambiance sombre et volatile avec réverbération)
 
 ## Code à écrire  
 
