@@ -12,4 +12,6 @@
 
  * Semaine 3: Nous avons trouvé un nouveau concept pour le jeu, ce qui nous emmène dans une meilleur direction que le premier concept. Pour ma part, j'ai réalisé les sons d'épée et de saut.
 
+ * Semaine 4: J'ai réussi à terminer la plupart des effets sonores de base et j'ai réaliser la carte faite pour la maquette. Moi et mon équipe avons réussi a connecter les boutons d'arcade et le joystick au jeu afin de contrôler le personnage et nous avons même pu fabriquer une manette pour la maquette.
+
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
