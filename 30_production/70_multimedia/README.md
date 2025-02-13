@@ -9,8 +9,8 @@
 ## Mélodies à compléter :
 
 * Mélodie du menu principal (mélodie calme et lente)
-* Mélodie de base du niveau 1 (mélodie sombre et entrainante)
-* Mélodie contre le boss final(ambiance lourde et grave)
+* Mélodie de base du niveau (mélodie sombre et entrainante)
+* Mélodie quand on termine le niveau (mélodie victorieuse)
 
 ### Sons à compléter :
 
