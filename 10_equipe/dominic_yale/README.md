@@ -1,6 +1,6 @@
 # Dominic Yale
 
- ![Dominic Yale](/img/img_dom.JPG)
+ ![Dominic Yale](img_dom.JPG)
 
  ## Réalisations
 
