@@ -2,13 +2,13 @@
 
 ## Inspirations visuelles
 
-* ![moodboard](style.jpg)
-* ![moodboard](chevalier.jpg)
-* ![moodboard](personnage.jpg)
-* ![moodboard](menu.jpg)
-* ![moodboard](decor1.png)
-* ![moodboard](decor2.png)
-* ![moodboard](coolor.png)
+* ![Style fantaisie sombre](style.jpg)
+* ![Chevalier](chevalier.jpg)
+* ![Spritesheet](personnage.jpg)
+* ![Menu](menu.jpg)
+* ![Décor](decor1.png)
+* ![Décor](decor2.png)
+* ![Palette de couleur](coolor.png)
 
 ## Inspirations multimédias
 
