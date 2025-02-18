@@ -16,11 +16,8 @@
 
 
 ### Aperçu de la Semaine 2  
-<table>
-  <tr>
-    <td><img src="semain2.png" alt="Image 1" ></td>
-  </tr>
-</table>
+- Titre
+* ![S2 Titre](semain2.png)
 
 ### Semaine 3  
 - J'ai réalisé d'énormes avancées dans le code du jeu.  
