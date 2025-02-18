@@ -1,1 +1,10 @@
 # Scénarimage
+* ![Début dans un chateau](debut.png)
+* ![Des ennemis vont rendre la route plus difficile](ennemi.png)
+* ![S'il vous attaque, vous perdez un coeur](vie.png)
+* ![Si vous récupérez une boule de vie, vous gagnez un coeur](boule.png)
+* ![Vous croisez un rubis et on vous explique votre but](rubisdebut.png)
+* ![Vous trouvez le premier morceaux de parchemin](point1.png)
+* ![Vous trouvez le deuxième morceaux de parchemin](point2.png)
+* ![Vous trouvez le troisième morceaux de parchemin](point3.png)
+* ![Vous retournez au rubis pour sauver la forêt](rubisdebut.png)
