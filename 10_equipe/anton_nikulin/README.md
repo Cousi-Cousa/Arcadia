@@ -12,11 +12,9 @@
 - J'ai créé un prototype du jeu, comprenant :  
   - Le joueur avec plusieurs de ses animations.  
   - Un ennemi avec certaines de ses animations.
-  - Un arrière-plan en couches créant un effet de mouvement.  
-
-
+  - Un arrière-plan en couches créant un effet de mouvement.
+ 
 ### Aperçu de la Semaine 2  
-- Titre
 * ![S2 Titre](semain2.png)
 
 ### Semaine 3  
@@ -28,12 +26,8 @@
 Ces progrès permettent maintenant de donner plus de vie et d'interactivité au jeu, en rendant le gameplay plus dynamique et fluide.  
 
 #### Aperçus de la Semaine 3  
-<table>
-  <tr>
-    <td><img src="semain31.png" alt="Image 2" ></td>
-    <td><img src="semain32.png" alt="Image 3" ></td>
-  </tr>
-</table>
+* ![S3 Titre](semain31.png)
+* ![S3 Titre](semain32.png)
 
 ### Vidéo de la Semaine 3  
 [Voir la vidéo](vid1.mov)
