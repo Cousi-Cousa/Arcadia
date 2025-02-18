@@ -16,8 +16,25 @@
 - Reconceptualisation du jeu qui nous permet maintenant d'avoir un projet qui tient la route
 - Toutes les animations du personnage principal sont faites
 * ![S3 Animation du chevalier](chevalier_attaque.png)
+- Création du logo Arcadia
+* ![S3 Animation du chevalier](/10_equipe/logo.png)
 
 ### Semaine 4
+- Animation du champignon
+* ![S3 Animation du chevalier](/10_equipe/champignon_repos.png)
+* - Design du HUD
+* ![S3 Animation du chevalier](/10_equipe/coeur_3.png)
+* ![S3 Animation du chevalier](/10_equipe/manuscrit_123.png)
+* - Animation de Lavar
+* ![S3 Animation du chevalier](/10_equipe/lavar_marche.png)
+* - Design du rubis
+* ![S3 Animation du chevalier](/10_equipe/rubis.png)
+* - Design de la boite de dialogue
+* ![S3 Animation du chevalier](/10_equipe/texte_debut.png)
+* - Design du tileset de base
+* ![S3 Animation du chevalier](/10_equipe/tileset_1.png)
+* - Design du background
+* ![S3 Animation du chevalier](/10_equipe/logo.png)
 ### Semaine 5
 ### Semaine 6
 ### Semaine 7
