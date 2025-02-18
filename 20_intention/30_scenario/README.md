@@ -1,6 +1,6 @@
 # Scénario
 
-![scenario](/img/scenario.drawio.png)
+![scenario](scenario.drawio.png)
 
 
 ## Scénarisation: 
