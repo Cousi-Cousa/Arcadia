@@ -1,6 +1,5 @@
 # Équipe
 
-<!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
 
 ## Dominic Yale
 - Audio du jeu
