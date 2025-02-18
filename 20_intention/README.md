@@ -6,7 +6,8 @@
 * [Scénario](/20_intention/30_scenario/)
 * [Scénarimage](/20_intention/40_scenarimage/)
  <!-- end-replace-subnav -->  
-
+## Vidéo d'intention
+* [Vidéo d'intention](https://www.youtube.com/watch?v=5qRcwjpivJs)
 ## Point de vue de l'interacteur
 ### Qu'est-ce que vous voulez que l'interacteur vive ?
 -On veut que l'interacteur joue à notre jeu, mais aussi qu'il ai comme but d'y arriver dans un temps record.
