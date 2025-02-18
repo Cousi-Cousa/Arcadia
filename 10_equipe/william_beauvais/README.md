@@ -34,7 +34,7 @@
 * - Design du tileset de base
 * ![S3 Animation du chevalier](/10_equipe/tileset_1.png)
 * - Design du background
-* ![S3 Animation du chevalier](/10_equipe/logo.png)
+* ![S3 Animation du chevalier](arbre_1.png)
 ### Semaine 5
 ### Semaine 6
 ### Semaine 7
