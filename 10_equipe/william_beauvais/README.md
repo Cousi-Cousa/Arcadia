@@ -1,6 +1,5 @@
 # William Beauvais
-
-![William Beauvais](DSC09986.JPG)
+* ![William Beauvais](DSC09986.JPG)
 
  ## Réalisations
 ### Semaine 1
