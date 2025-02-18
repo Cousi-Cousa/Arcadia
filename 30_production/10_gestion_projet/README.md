@@ -9,7 +9,7 @@
 ## Mesure
 * mesure de stand idéal: 33 po (chariot des profs)
 * bartop: 26”largeur x 24”hauteur x 17”profondeur
-![plan](/img/plan_arcade.png)
+![Plan d'une borne d'arcade](plan_arcade.png)
 
 
 ## Tableau par semaine
