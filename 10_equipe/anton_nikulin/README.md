@@ -46,5 +46,18 @@ Ces progrès permettent maintenant de donner plus de vie et d'interactivité au 
 - Toute la semaine a été consacrée à l'implémentation et à la correction de bugs liés aux attaques des ennemis et du joueur.  
 - Ajustement et débogage des hitbox pour garantir une meilleure précision lors des combats.  
 
-Grâce à ces améliorations, les mécaniques de combat sont désormais plus fluides et réactives, rendant l'expérience de jeu plus immersive.
+Grâce à ces améliorations, les mécaniques de combat sont désormais plus fluides et réactives, rendant l'expérience de jeu plus immersive.  
+
+### Effets sonores ajoutés :  
+- **Marche** 🏃‍♂️ (bruit de pas)  
+- **Saut** 🦘 (effet sonore pour le saut)  
+- **Attaque** ⚔️ (son d'impact lors d'une attaque)  
+- **Dégâts subis** 💥 (bruit lorsque le joueur est touché)  
+- **Atterrissage** 👣 (son d'atterrissage après un saut)  
+- **Ramassage d'objets** 🎵  
+  - Santé ❤️ (bruit spécifique pour la récupération de vie)  
+  - Objet de quête 📜 (effet sonore spécial pour les objets importants)  
+
+Ces ajouts renforcent l'immersion sonore du jeu et rendent chaque action plus impactante.
+
 
