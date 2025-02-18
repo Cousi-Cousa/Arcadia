@@ -62,6 +62,7 @@
 #### Élément de la quête
 * Bloc de dialogue
 * Boule de vie
+* Rubis
 #### Menu du jeu et Victoire/Défaite
 * Vidéo du jeu
 * Texte « Appuyer pour jouer »
