@@ -4,14 +4,14 @@
 ## Dominic Yale
 - Audio du jeu
 - Programmation du jeu
-* [![dominic_yale](img_dom.JPG)](dominic_yale/)
+* [![Dominic Yale](img_dom.JPG/400x400)](dominic_yale/)
 
   ## William Beauvais
 - Visuels du jeu
 - Visuels de la borne d'arcade
-* [![william_beauvais](DSC09986.JPG)](william_beauvais/)
+* [![William Beauvais](DSC09986.JPG/400x400)](william_beauvais/)
 
   ## Anton Nikulin
 - Programmation du jeu
 - Construction de la borne d'arcade
-* [![anton_nikulin](Image.jfif)](anton_nikulin/)
+* [![Anton Nikulin](Image.jfif/400x400)](anton_nikulin/)
