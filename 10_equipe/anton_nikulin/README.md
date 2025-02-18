@@ -15,7 +15,7 @@
   - Un arrière-plan en couches créant un effet de mouvement.
  
 ### Aperçu de la Semaine 2  
-* ![S2 Titre](semain2.png)
+* ![S2 erwerwerwerwerwerwrwerwer](semain2.png)
 
 ### Semaine 3  
 - J'ai réalisé d'énormes avancées dans le code du jeu.  
