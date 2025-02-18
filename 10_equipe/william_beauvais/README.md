@@ -1,6 +1,6 @@
 # William Beauvais
 
-![William Beauvais](/img/DSC09986.JPG)
+![William Beauvais](img/DSC09986.JPG)
 
  ## Réalisations
 
