@@ -1,4 +1,4 @@
-# Arcadia
+# Synopsis
 
 ## Synopsis
 Arcadia est un projet interactif multimédia qui propose aux participants un voyage nostalgique à travers le temps. Nous construisons une borne d'arcade sur mesure, intégrant un jeu de plateforme rétro conçu de A à Z.
@@ -25,10 +25,3 @@ Le projet Arcadia comprend la conception et la fabrication d'une borne d'arcade 
 - Objets: boules de vie, morceaux de parchemins
 
 - Ennemis: champignons corrompus, limaces empoisonnées ou slime, crapeau statique(attaque de langue)
-
-  
-## Références
-
-* [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
-* [Motivation](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/30_motivations/)
-* [Pitch](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/20_pitch/)
