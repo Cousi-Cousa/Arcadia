@@ -26,8 +26,8 @@
 Ces progrès permettent maintenant de donner plus de vie et d'interactivité au jeu, en rendant le gameplay plus dynamique et fluide.  
 
 #### Aperçus de la Semaine 3  
-* ![S3 Titre](semain31.png)
-* ![S3 Titre](semain32.png)
+* ![S3 Exemple de l'ennemi slime.](semain31.png)
+* ![S3 Exemple de l'ennemi champignon.](semain32.png)
 
 ### Vidéo de la Semaine 3  
 [Voir la vidéo](vid1.mov)
