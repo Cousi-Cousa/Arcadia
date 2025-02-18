@@ -40,3 +40,11 @@ Ces progrès permettent maintenant de donner plus de vie et d'interactivité au 
 
 ### Vidéo de la Semaine 3  
 [Voir la vidéo](vid1.mov)
+
+### Semaine 4  
+- J'ai ajouté la majorité des effets sonores du jeu.  
+- Toute la semaine a été consacrée à l'implémentation et à la correction de bugs liés aux attaques des ennemis et du joueur.  
+- Ajustement et débogage des hitbox pour garantir une meilleure précision lors des combats.  
+
+Grâce à ces améliorations, les mécaniques de combat sont désormais plus fluides et réactives, rendant l'expérience de jeu plus immersive.
+
