@@ -19,7 +19,7 @@
 
 ### Semaine 4
 - Animation du champignon
-* ![S4 Champignon au repos](/champignon_repos.png)
+* ![S4 Champignon au repos](champignon_repos.png)
 - Design du HUD
 * ![S4 Points de vie](coeur_3.png)
 * ![S4 Morceaux de manuscrit](manuscrit_123.png)
