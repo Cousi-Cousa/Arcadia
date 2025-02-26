@@ -49,6 +49,10 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
   - Santé ❤️ (bruit spécifique pour la récupération de vie)  
   - Objet de quête 📜 (effet sonore spécial pour les objets importants)  
 
-Ces ajouts renforcent l'immersion sonore du jeu et rendent chaque action plus impactante.
+### Semaine 5  
+- J'ai travaillé sur la correction de plusieurs bugs majeurs liés aux hitbox du jeu.  
+- J'ai implémenté le code de base pour assurer des transitions fluides entre les différentes scènes.  
+
+
 
 
