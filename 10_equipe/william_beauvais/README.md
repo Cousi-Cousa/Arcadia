@@ -26,8 +26,6 @@
 * ![S4 Lavar qui marche](lavar_marche.png)
 - Design du rubis
 * ![S4 Rubis](rubis.png)
-- Design de la boite de dialogue
-* ![S4 Boite de dialogue de l'introduction](texte_debut.png)
 - Design du tileset de base
 * ![S4 Tileset de base](tileset_1.png)
 - Design de l'arrière plan
@@ -41,7 +39,7 @@
 * ![S6 Tileset du sol](tileset_land.png)
 * ![S6 Tileset des platformes](tileset_platform.png)
 * ![S6 Tileset des décorations](tileset_decoration.png)
-- Nouveau design de la boite de dialogue
+- Design de la boite de dialogue
 * ![S5 Boite de dialogue](texte_debut.png)
 - Faire toute la map sur Tiled
 * ![S5 Map du jeu](map.png)
