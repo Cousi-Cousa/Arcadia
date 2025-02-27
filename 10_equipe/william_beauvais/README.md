@@ -33,6 +33,17 @@
 - Design de l'arrière plan
 * ![S4 Première couche de l'arrière plan](arbre_1.png)
 ### Semaine 5
+- Avancement des tileset
+- Design et animation de l'escargot
+* ![S5 Escargot](escargot.png)
 ### Semaine 6
+- Finalisation des 3 Tilesets (Décoration, Sol, Platformes)
+* ![S6 Tileset du sol](tileset_land.png)
+* ![S6 Tileset des platformes](tileset_platform.png)
+* ![S6 Tileset des décorations](tileset_decoration.png)
+- Nouveau design de la boite de dialogue
+* ![S5 Boite de dialogue](texte_debut.png)
+- Faire toute la map sur Tiled
+* ![S5 Map du jeu](map.png)
 ### Semaine 7
 ### Semaine 8
