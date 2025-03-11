@@ -4,15 +4,15 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 
 ## Gallerie d'images
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
+* ![Borne](borne1.jfif)
+* ![Contrôles](borne2.jfif)
 
-## Vidéo de la maquette en action
+## Gallerie d'images
 
-## Références 
-
-* [Étude de faisabilité](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/10_etude/)
-* [Maquette](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/30_maquette/)
-
+* ![Début](debut.png)
+* ![Ennemi](ennemi.png)
+* ![Boule de vie](boule.png)
+* ![Rubis](rubisdebut.png)
+* ![Parchemin](point1.png)
+* ![Parchemin](point2.png)
+* ![Parchemin](point3.png)
