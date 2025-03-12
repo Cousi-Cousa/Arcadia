@@ -40,8 +40,17 @@
 * ![S6 Tileset des platformes](tileset_platform.png)
 * ![S6 Tileset des décorations](tileset_decoration.png)
 - Design de la boite de dialogue
-* ![S5 Boite de dialogue](texte_debut.png)
+* ![S6 Boite de dialogue](texte_debut.png)
 - Faire toute la map sur Tiled
-* ![S5 Map du jeu](map.png)
+* ![S6 Map du jeu](map.png)
 ### Semaine 7
+- Construction d'un recouvrement en MDF pour mettre sur le charriot
+* ![S7 Structure de MDF sur le charriot](mdf.jfif)
+- Textes de Victoire/Défaite
+* ![S7 Message de Victoire](victoire.png)
+* ![S7 Message de Mort](mort.png)
+- Design du menu
+* ![S7 Design du menu principal](main.jpg)
+- Installation finale de la borne d'arcade
+* ![S7](tileset_land.png)
 ### Semaine 8
