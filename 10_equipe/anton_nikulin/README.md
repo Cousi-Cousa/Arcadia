@@ -65,10 +65,16 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
 ### Semaine 7  
 - J'ai terminé le travail sur la borne d'arcade.  
 - J'ai aidé à intégrer les derniers effets sonores dans le code.  
-- J'ai finalisé le câblage de l'ensemble de la borne.
+- J'ai finalisé le câblage de l'ensemble de la borne.  
 
-* ![Structure en bois - Étape 2](box2.jpg)  
-* ![Structure en bois - Étape 3](box3.jpg)  
+<p align="center">
+  <img src="box2.jpg" alt="Structure en bois - Étape 2" width="400">
+</p>
+
+<p align="center">
+  <img src="box3.jpg" alt="Structure en bois - Étape 3" width="400">
+</p>
+
 
 
 
