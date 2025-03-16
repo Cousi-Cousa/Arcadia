@@ -60,8 +60,16 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
 - Début du travail d'assemblage de la structure en bois de la borne d'arcade.  
 
 #### Aperçus de la Semaine 6  
-![Structure en bois - Étape 1](box1.jpg)  
-![Structure en bois - Étape 2](box2.jpg)  
-![Structure en bois - Étape 3](box3.jpg)  
+* [Structure en bois - Étape 1](box1.jpg)  
+
+### Semaine 7  
+- J'ai terminé le travail sur la borne d'arcade.  
+- J'ai aidé à intégrer les derniers effets sonores dans le code.  
+- J'ai finalisé le câblage de l'ensemble de la borne.
+
+* ![Structure en bois - Étape 2](box2.jpg)  
+* ![Structure en bois - Étape 3](box3.jpg)  
+
+
 
 
