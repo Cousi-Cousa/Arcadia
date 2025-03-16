@@ -53,6 +53,15 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
 - J'ai travaillé sur la correction de plusieurs bugs majeurs liés aux hitbox du jeu.  
 - J'ai implémenté le code de base pour assurer des transitions fluides entre les différentes scènes.  
 
+### Semaine 6  
+- J'ai réussi à implémenter l'animation de mort du joueur avec l'aide d'un collègue.  
+- J'ai commencé à ajouter du code CSS pour améliorer le style du jeu.  
+- J'ai également corrigé plusieurs bugs dans le code existant.  
+- Début du travail d'assemblage de la structure en bois de la borne d'arcade.  
 
+#### Aperçus de la Semaine 6  
+![Structure en bois - Étape 1](box1.jpg)  
+![Structure en bois - Étape 2](box2.jpg)  
+![Structure en bois - Étape 3](box3.jpg)  
 
 
