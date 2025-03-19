@@ -7,9 +7,9 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 ## Gallerie photo du projet réalisé
 * ![Le cabinet vue de l'intérieur](cabinet_arriere.JPG)
 * ![Réalisation finale de la borne d'arcade](cabinet_complet.JPG)
-* ![Image 3](assemblage_cabinet_02.jfif)
-* ![L'assemblage du cabinet](assemblage_cabinet_01.jfif)
-* ![Image 4](assemblage_cabinet_03.jfif)
+* ![L'assemblage du cabinet](assemblage_cabinet_02.jfif)
+* ![](assemblage_cabinet_01.jfif)
+* ![](assemblage_cabinet_03.jfif)
 * ![Réalisation des effets sonores](conception_sonore.jfif)
 * ![Le menu principal du jeu](menu_principal.PNG)
 * ![Le royaume des champignons](royaume_champignon.PNG)
