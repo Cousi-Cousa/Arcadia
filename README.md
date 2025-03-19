@@ -12,4 +12,5 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 * ![Image 4](assemblage_cabinet_03.jfif)
 * ![Le cabinet vue de l'intérieur](cabinet_arriere.JPG)
 * ![Réalisation finale de la borne d'arcade](cabinet_complet.JPG)
-
+* ![Réalisation finale de la borne d'arcade](cabinet_complet.JPG)
+* ![Réalisation finale de la borne d'arcade](cabinet_complet.JPG)
