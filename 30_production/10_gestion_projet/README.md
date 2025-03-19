@@ -4,7 +4,7 @@
 
 * Plus précisément, le modèle "Product Launch" (Lancement de produit) 
 
-* My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+* [Lien vers les issues](https://github.com/orgs/Cousi-Cousa/projects/1/views/1)
 
 ## Mesure
 * mesure de stand idéal: 33 po (chariot des profs)
