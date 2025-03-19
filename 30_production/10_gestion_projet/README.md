@@ -4,7 +4,7 @@
 
 * Plus précisément, le modèle "Product Launch" (Lancement de produit) 
 
-* Mettre des liens vers votre outil de gestion de projets ici
+* My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
 ## Mesure
 * mesure de stand idéal: 33 po (chariot des profs)
