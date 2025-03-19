@@ -23,6 +23,7 @@
 - J'ai réaliser la carte faite pour la maquette.
 - Moi et mon équipe avons réussi a connecter les boutons d'arcade et le joystick au jeu afin de contrôler le personnage.
 - Nous avons pu fabriquer une manette pour la maquette.
+- ![La manette](borne2.jfif)
 
 ### Semaine 5
 - Pour la semaine 5, j'ai commencer à réaliser les variantes des effets sonores.
