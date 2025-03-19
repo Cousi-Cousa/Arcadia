@@ -2,10 +2,10 @@
 
 Documentation du projet finalisé 
 
-* ![Image 1](image_diffusion/cabinet_construit.jfif)
-* ![Image 2](image_diffusion/cabinet_complet.JPG)
-* ![Image 3](image_diffusion/cabinet_face.JPG)
-* ![Image 4](image_diffusion/cabinet_studio.JPG)
+* ![Le cabinet construit](image_diffusion/cabinet_construit.jfif)
+* ![Le produit final](image_diffusion/cabinet_complet.JPG)
+* ![Le cabinet de face](image_diffusion/cabinet_face.JPG)
+* ![Le cabinet dans le grand studio](image_diffusion/cabinet_studio.JPG)
 
 
 * Vidéo 
