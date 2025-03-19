@@ -10,7 +10,8 @@
 
  ### Semaine 2
  - J'ai pu commencer a travailler dans un nouveau logiciel qui pourra me faciliter la tâche afin de créer des sons.
- - J'ai pu commencer a créer un début de    mélodie pour la musique du menu principal.
+ - J'ai pu commencer a créer un début de mélodie pour la musique du menu principal.
+   ![Surge XT]()
 
 ### Semaine 3
 - Nous avons trouvé un nouveau concept pour le jeu, ce qui nous emmène dans une meilleur direction que le premier concept.
