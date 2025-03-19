@@ -19,10 +19,13 @@
 ## Logiciels
 ### Conception visuelle
 -  Adobe Illustrator
+-  Adobe Photoshop
 ### Conception sonore
 - Reaper
 - SurgeXT (plugin)
 ### Programmation
+- Visual Studio Code
+- Phaser
 - JavaScript
 - Tiled
 
