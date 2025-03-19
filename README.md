@@ -6,10 +6,10 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
 
-* ![Image 1](conception_sonore.jfif)
-* ![Image 2](assemblage_cabinet_01.jfif)
+* ![Conception des effets sonores](conception_sonore.jfif)
+* ![L'assemblage du cabinet](assemblage_cabinet_01.jfif)
 * ![Image 3](assemblage_cabinet_02.jfif)
 * ![Image 4](assemblage_cabinet_03.jfif)
-* ![Image 5](cabinet_arriere.JPG)
-* ![Image 6](cabinet_complet.JPG)
+* ![Le cabinet vue de l'intérieur](cabinet_arriere.JPG)
+* ![Réalisation finale de la borne d'arcade](cabinet_complet.JPG)
 
