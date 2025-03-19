@@ -6,10 +6,10 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
 
-* ![Image 1](conception_sonore.JPG)
+* ![Image 1](conception_sonore.jfif)
 * ![Image 2](assemblage_cabinet_01.jfif)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
-* ![Image 5](https://placehold.co/400x400?text=5+image)
-* ![Image 6](https://placehold.co/400x400?text=6+image)
+* ![Image 3](assemblage_cabinet_02.jfif)
+* ![Image 4](assemblage_cabinet_03.jfif)
+* ![Image 5](cabinet_arriere.JPG)
+* ![Image 6](cabinet_complet.JPG)
 
