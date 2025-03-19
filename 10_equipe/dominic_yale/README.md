@@ -16,6 +16,7 @@
 ### Semaine 3
 - Nous avons trouvé un nouveau concept pour le jeu, ce qui nous emmène dans une meilleur direction que le premier concept.
 - J'ai réalisé les sons d'épée et de saut.
+![iteration](iteration.JPG)
 
 ### Semaine 4
 - J'ai réussi à terminer la plupart des effets sonores de base.
