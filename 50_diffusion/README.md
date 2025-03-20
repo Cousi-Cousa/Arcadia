@@ -107,5 +107,5 @@ Avant d'ouvrir le projet :
    - Téléchargez votre dépôt (repository) en exécutant la commande suivante dans le terminal :  
 
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY.git
+   https://github.com/Cousi-Cousa/Anton-code-semaine-4
 
