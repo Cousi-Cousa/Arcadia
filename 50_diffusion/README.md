@@ -93,3 +93,19 @@ Avant d'ouvrir le projet :
 
 ---
 
+# ✅ Étape 3 : Lancement du Projet
+
+## 🛠️ Instructions :
+1. **Vérifier le son, la connexion internet et la manette :**  
+   - Assurez-vous que le son fonctionne correctement.  
+   - Vérifiez que la connexion internet est active.  
+   - Testez la manette avec un testeur de manette en ligne pour vous assurer que tous les boutons et le joystick fonctionnent correctement.  
+
+2. **Ouvrir votre projet GitHub :**  
+   - Accédez à votre projet GitHub depuis le navigateur ou via l'application GitHub Desktop.  
+   - Téléchargez votre dépôt (repository) en exécutant la commande suivante dans le terminal :  
+
+   ```bash
+   git clone https://github.com/USERNAME/REPOSITORY.git
+
+
