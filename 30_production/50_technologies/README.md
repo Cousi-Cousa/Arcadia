@@ -2,6 +2,7 @@
 
 ## Conception visuelle
 -  Adobe Illustrator
+-  Adobe Photoshop
 
 ## Conception sonore
 -  Reaper
