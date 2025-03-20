@@ -8,6 +8,8 @@
 -  SurgeXT (plugin)
 
 ## Programmation
+-  Visual Studio Code
+-  Phaser
 -  JavaScript
 -  Tiled
 
