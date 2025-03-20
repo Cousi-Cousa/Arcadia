@@ -9,6 +9,8 @@
 ### Technologie
 - Ordinateur
 - Écran 24 pouces
+- Clavier
+- Souris
 - 2 boutons d'arcade
 - Joystick
 - Carte mère (pour connecter les boutons et le joystick)
