@@ -23,12 +23,13 @@
 - J'ai réaliser la carte faite pour la maquette.
 - Moi et mon équipe avons réussi a connecter les boutons d'arcade et le joystick au jeu afin de contrôler le personnage.
 - Nous avons pu fabriquer une manette pour la maquette.
-- ![La manette](borne2.jfif)
+![La manette](borne2.jfif)
 
 ### Semaine 5
 - Pour la semaine 5, j'ai commencer à réaliser les variantes des effets sonores.
 - J'ai refait certains sons dont je n'étais pas convaincu de leur efficacité quant-à l'univers dans lequel le jeu se déroulera.
-- Grâce à la visite des étudiants, nous avons pu modifier certaine choses qui allaient faire en sorte que les joueurs puisse profiter de l'expérience au maximum. 
+- Grâce à la visite des étudiants, nous avons pu modifier certaine choses qui allaient faire en sorte que les joueurs puisse profiter de l'expérience au maximum.
+![Les variantes des effets sonores](variante.PNG)
 
 ### Semaine 6
 - J'ai commencer à aider Anton avec la programmation du jeu.
