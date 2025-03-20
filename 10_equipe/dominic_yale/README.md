@@ -44,6 +44,7 @@
 - J'ai intégré les interfaces quand on gagne le jeu et quand on perd le jeu.
 - J'ai fait la bande sonore quand on gagne le jeu.
 ![](revenir_mort.png)
+![](revenir_victoire.png)
 ### Semaine 8
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
