@@ -24,4 +24,6 @@
 - Cable Ethernet
 - Cable HDMI
 - Cable d'alimentation du moniteur
-- Cable d'aliementation de l'ordinateur
+- Cable d'alimentation de l'ordinateur
+- Cable d'alimentation de l'amplificateur
+- 2 cables d'alimentation des haut-parleurs
