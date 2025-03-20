@@ -12,12 +12,11 @@
 - Clavier
 - Souris
 - La manette </br>
-  -dewd
-- 2 boutons d'arcade
-- Joystick
-- Carte mère (pour connecter les boutons et le joystick)
-- Cablâge nécessaire pour faire le lien entre les boutons, le joystick et la carte mère
-- Cable USB pour la manette
+  - 2 boutons d'arcade
+  - Joystick
+  - Carte mère (pour connecter les boutons et le joystick)
+  - Cablâge nécessaire pour faire le lien entre les boutons, le joystick et la carte mère
+  - Cable USB pour la manette
 - Amplificateur
 - 2 haut-parleurs
 - Multiprise
