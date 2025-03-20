@@ -109,3 +109,26 @@ Avant d'ouvrir le projet :
    ```bash
    https://github.com/Cousi-Cousa/Anton-code-semaine-4
 
+3. **Ouvrir le projet dans votre logiciel de développement :**  
+   Ouvrez votre projet de jeu dans le logiciel de votre choix.  
+   - Si vous utilisez **Visual Studio Code**, téléchargez l'extension **Live Server**.  
+   - Utilisez **Live Server** pour ouvrir le jeu vidéo dans le navigateur.  
+
+4. **Tester le jeu :**  
+   Une fois le jeu lancé :  
+   - Vérifiez que le joystick et les boutons fonctionnent correctement.  
+   - Vérifiez que le son est activé et qu'il est au bon niveau.  
+   - Assurez-vous que tout est configuré correctement.  
+   - Fermez tous les programmes inutiles.  
+   - Ouvrez la page du jeu dans le navigateur.  
+   - Appuyez sur **F11** pour passer en mode plein écran.  
+   - **Profitez de votre borne d'arcade !** 🎮  
+
+---
+
+### ⚠️ **Important :**  
+Si le jeu ne fonctionne pas correctement :  
+- Vérifiez à nouveau la connexion de la manette.  
+- Vérifiez le niveau de son dans les paramètres de l'amplificateur et du jeu.  
+- Redémarrez le mini PC si nécessaire. 
+
