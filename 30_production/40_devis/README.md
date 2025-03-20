@@ -2,7 +2,7 @@
 
 ## Matériel
 ### Physique
-- [Cabinet d'arcade](https://thehomearcade.ca/bartop-arcade-24/) (à commander en ligne)
+- Cabinet d'arcade[(à commander en ligne)](https://thehomearcade.ca/bartop-arcade-24/)
 - Charriot
 - Planches en bois (Coupées selon les mesures adéquates)
 - Peinture noir
