@@ -11,7 +11,7 @@
 - Écran 24 pouces
 - Clavier
 - Souris
-- La manette
+- La manette </br>
   -dewd
 - 2 boutons d'arcade
 - Joystick
