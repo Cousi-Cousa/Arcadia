@@ -32,8 +32,15 @@ Documentation du projet finalisé
 5. **Vérifier la connexion du moniteur :**  
    Assurez-vous que le moniteur est bien connecté au PC.
 
-6. **Vérifier les câbles d'alimentation :**  
-   Vérifiez que les câbles d'alimentation du mini PC, du moniteur et de l'amplificateur sont connectés à la rallonge.
+6. **Vérifier la connexion du câble Ethernet :**  
+   Assurez-vous que le câble Ethernet est bien connecté au PC pour une connexion internet stable.
+
+7. **Vérifier les câbles d'alimentation :**  
+   Vérifiez que :
+   - Le câble d’alimentation du mini PC est connecté.  
+   - Le câble d’alimentation du moniteur est connecté.  
+   - Le câble d’alimentation de l’amplificateur est connecté.  
+   - Tous ces câbles doivent être branchés à la rallonge (multiprise).  
 
 ---
 
