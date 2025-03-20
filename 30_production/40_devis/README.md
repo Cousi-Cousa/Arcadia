@@ -11,6 +11,8 @@
 - Écran 24 pouces
 - Clavier
 - Souris
+- La manette
+  -dewd
 - 2 boutons d'arcade
 - Joystick
 - Carte mère (pour connecter les boutons et le joystick)
