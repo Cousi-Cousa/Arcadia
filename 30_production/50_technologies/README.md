@@ -15,6 +15,4 @@
 -  Tiled
 
 ## Technologie physique
--  boutons d'arcade
--  Joystick
--  Carte mère (pour connecter les boutons et le joystick)
+-  Manette de jeu (boutons, joystick, carte mère avec cablâge)
