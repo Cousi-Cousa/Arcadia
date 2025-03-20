@@ -129,6 +129,7 @@ Avant d'ouvrir le projet :
 ### ⚠️ **Important :**  
 Si le jeu ne fonctionne pas correctement :  
 - Vérifiez à nouveau la connexion de la manette.  
-- Vérifiez le niveau de son dans les paramètres de l'amplificateur et du jeu.  
+- Vérifiez le niveau de son dans les paramètres de l'amplificateur et du jeu.
+- Regardez l'étape 1 si tout les éléments sont bien connectés
 - Redémarrez le mini PC si nécessaire. 
 
