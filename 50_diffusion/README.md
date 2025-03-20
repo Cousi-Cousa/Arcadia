@@ -48,6 +48,9 @@ Documentation du projet finalisé
 En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des haut-parleurs et de la carte mère du joystick peuvent se desserrer, voire être endommagées.  
 ➡️ Apportez les outils nécessaires, comme un tournevis cruciforme et plat, pour retirer les panneaux en bois si nécessaire.  
 
+
+
+
 # ✅ Étape 2 : Installation du Projet
 
 ## 🛠️ Instructions :
