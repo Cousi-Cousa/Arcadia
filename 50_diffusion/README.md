@@ -105,7 +105,7 @@ Avant d'ouvrir le projet :
 2. **Ouvrir votre projet GitHub :**  
    - Accédez à votre projet GitHub depuis le navigateur ou via l'application GitHub Desktop.  
    - Téléchargez votre dépôt (repository)
-   * [Lien vers les issues](https://github.com/Cousi-Cousa/Anton-code-semaine-4)
+   * [Lien vers le dépôt](https://github.com/Cousi-Cousa/Anton-code-semaine-4)
 
 3. **Ouvrir le projet dans votre logiciel de développement :**  
    Ouvrez votre projet de jeu dans le logiciel de votre choix.  
