@@ -98,6 +98,7 @@ Avant d'ouvrir le projet :
 ## 🛠️ Instructions :
 1. **Vérifier le son, la connexion internet et la manette :**  
    - Assurez-vous que le son fonctionne correctement.  
+   - **Si le son est trop fort ou trop faible, ajustez-le à l'aide de la molette sur l'amplificateur.**  
    - Vérifiez que la connexion internet est active.  
    - Testez la manette avec un testeur de manette en ligne pour vous assurer que tous les boutons et le joystick fonctionnent correctement.  
 
@@ -107,5 +108,4 @@ Avant d'ouvrir le projet :
 
    ```bash
    git clone https://github.com/USERNAME/REPOSITORY.git
-
 
