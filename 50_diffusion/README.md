@@ -26,8 +26,8 @@ Documentation du projet finalisé
 3. **Vérifier la connexion de l'amplificateur :**  
    Vérifiez que l’amplificateur est connecté au mini PC.
 
-4. **Vérifier la connexion de la manette et du joystick :**  
-   Assurez-vous que la manette et les boutons du joystick sont connectés au PC via leur câble USB.
+4. **Vérifier la connexion du Pc et du Gamepad :**  
+   Assurez-vous que le joystick et les boutons sont connectés au PC via leur câble USB.
 
 5. **Vérifier la connexion du moniteur :**  
    Assurez-vous que le moniteur est bien connecté au PC.
