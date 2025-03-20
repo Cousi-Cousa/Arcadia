@@ -48,3 +48,42 @@ Documentation du projet finalisé
 En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des haut-parleurs et de la carte mère du joystick peuvent se desserrer, voire être endommagées.  
 ➡️ Apportez les outils nécessaires, comme un tournevis cruciforme et plat, pour retirer les panneaux en bois si nécessaire.  
 
+# ✅ Étape 2 : Installation du Projet
+
+## 🛠️ Instructions :
+1. **Fermer le panneau arrière :**  
+   Après avoir vérifié que tous les éléments internes sont bien connectés, fermez le panneau arrière de la borne d'arcade.
+
+2. **Placer la borne sur le chariot :**  
+   Avant de placer la borne sur le chariot mobile, placez le lourd couvercle en bois noir sur le chariot. Ensuite, placez la borne d'arcade sur le dessus du chariot.
+
+3. **Déplacer l'installation vers l'emplacement désiré :**  
+   Déplacez la borne vers l'endroit souhaité, de préférence près d'une prise électrique ainsi que d'une prise de câble internet (par exemple, dans le TIM Studio).
+
+4. **Brancher les câbles d'alimentation et Ethernet :**  
+   Une fois l'emplacement trouvé :  
+   - Branchez le câble d'alimentation à une prise murale.  
+   - Branchez le câble Ethernet à une prise réseau murale.  
+   - Assurez-vous que les câbles ne traînent pas par terre pour éviter les risques de chute.  
+
+5. **Vérifier la connexion internet :**  
+   Assurez-vous que la prise réseau est bien connectée au réseau principal et qu'une connexion internet est active.
+
+6. **Allumer le mini PC et le moniteur :**  
+   - Ouvrez la borne d'arcade.  
+   - Allumez le mini PC.  
+   - Allumez le moniteur (le bouton d'alimentation se trouve en bas à droite, vu de face).  
+
+7. **Connexion au réseau :**  
+   Si le câble d'alimentation est correctement branché, le moniteur devrait s’allumer.  
+   - Connectez-vous à votre compte scolaire.  
+   - Vérifiez que la connexion internet fonctionne correctement.  
+   - Si la connexion ne fonctionne pas, revérifiez la connexion entre le PC et la prise murale.  
+
+---
+
+### ⚠️ **Important :**  
+Avant d'ouvrir le projet :  
+- Vérifiez que le son fonctionne correctement.  
+- Testez le joystick et les boutons avec un testeur de manette en ligne pour vous assurer que tout est bien connecté.  
+
