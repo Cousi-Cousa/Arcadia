@@ -42,14 +42,13 @@ Documentation du projet finalisé
    - Le câble d’alimentation de l’amplificateur est connecté.  
    - Tous ces câbles doivent être branchés à la rallonge (multiprise).  
 
----
 
 ### ⚠️ **Important :**  
 En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des haut-parleurs et de la carte mère du joystick peuvent se desserrer, voire être endommagées.  
 ➡️ Apportez les outils nécessaires, comme un tournevis cruciforme et plat, pour retirer les panneaux en bois si nécessaire.  
 
 
-
+---
 
 # ✅ Étape 2 : Installation du Projet
 
@@ -83,10 +82,12 @@ En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des 
    - Vérifiez que la connexion internet fonctionne correctement.  
    - Si la connexion ne fonctionne pas, revérifiez la connexion entre le PC et la prise murale.  
 
----
 
 ### ⚠️ **Important :**  
 Avant d'ouvrir le projet :  
 - Vérifiez que le son fonctionne correctement.  
-- Testez le joystick et les boutons avec un testeur de manette en ligne pour vous assurer que tout est bien connecté.  
+- Testez le joystick et les boutons avec un testeur de manette en ligne pour vous assurer que tout est bien connecté.
+
+
+---
 
