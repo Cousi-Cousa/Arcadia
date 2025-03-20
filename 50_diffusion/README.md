@@ -104,7 +104,7 @@ Avant d'ouvrir le projet :
 
 2. **Ouvrir votre projet GitHub :**  
    - Accédez à votre projet GitHub depuis le navigateur ou via l'application GitHub Desktop.  
-   - Téléchargez votre dépôt (repository) en exécutant la commande suivante dans le terminal :  
+   - Téléchargez votre dépôt (repository)  
 
    ```bash
    https://github.com/Cousi-Cousa/Anton-code-semaine-4
