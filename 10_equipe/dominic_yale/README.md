@@ -43,7 +43,7 @@
 - J'ai réglé beaucoup de bug en lien avec les sons (Quand est-ce qu'ils doivent jouer et quand est-ce qu'ils doivent s'arrêter)
 - J'ai intégré les interfaces quand on gagne le jeu et quand on perd le jeu.
 - J'ai fait la bande sonore quand on gagne le jeu.
-
+![](revenir_mort.png)
 ### Semaine 8
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
