@@ -2,30 +2,21 @@
 
 ## Matériel
 ### Physique
-- Bartop
+- Cabinet d'arcade
 - Charriot
-- Bois
-- Peinture
+- Planches en bois (Coupées selon les mesures adéquates)
+- Peinture noir
 ### Technologie
 - Ordinateur
 - Écran 24 pouces
-- Boutons d'arcade
+- 2 boutons d'arcade
 - Joystick
 - Carte mère (pour connecter les boutons et le joystick)
+- Amplificateur
+- 2 haut-parleurs
 - Multiprise
 - Rallonge
 - Cable Ethernet
 - Cable HDMI
-## Logiciels
-### Conception visuelle
--  Adobe Illustrator
--  Adobe Photoshop
-### Conception sonore
-- Reaper
-- SurgeXT (plugin)
-### Programmation
-- Visual Studio Code
-- Phaser
-- JavaScript
-- Tiled
-
+- Cable d'alimentation du moniteur
+- Cable d'aliementation de l'ordinateur
