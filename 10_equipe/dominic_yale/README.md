@@ -36,7 +36,7 @@
 - J'ai ajouté de l'interaction entre le sorcier et le chevalier avec un dialogue.
 - J'ai continué à travailler sur les variantes des effets sonores.
 - J'ai réalisé la bande sonore du menu principal.
-- ![Le dialogue du sorcier](texte_lavar_4.PNG)
+- ![Le dialogue du sorcier](texte_lavar_4.png)
 
 ### Semaine 7
 - J'ai ajouté tous les effets sonores aux jeu en les faisant jouer aléatoirement à chaque interaction.
