@@ -16,7 +16,7 @@ Notre ambition est d'inviter les participants à découvrir ou redécouvrir les 
 Le projet Arcadia consiste en la conception et la fabrication d'une borne d'arcade physique, accompagnées du développement d'un jeu de plateforme au style rétro. Ce jeu offrira des mécaniques simples mais captivantes, avec un accent particulier sur une esthétique 8-bit et une bande-son chiptune authentique. L'expérience a été conçue pour être intuitive et accessible à tous, tout en proposant un défi stimulant pour les passionnés de jeux d'arcade.
 
 ## Objectif du jeu
-- L'objectif est de sauver la forêt. Pour y parvenir, le joueur doit voyager à travers la carte afin de retrouver les morceaux de parchemins dispersés par le sorcier. Une fois le parchemin reconstitué, le joueur doit se rendre près de l'artefact pour réciter la formule magique et sauver la forêt.
+L'objectif est de sauver la forêt. Pour y parvenir, le joueur doit voyager à travers la carte afin de retrouver les morceaux de parchemins dispersés par le sorcier. Une fois le parchemin reconstitué, le joueur doit se rendre près de l'artefact pour réciter la formule magique et sauver la forêt.
 
 ## Éléments du jeu
 
