@@ -4,9 +4,7 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 
 ## Bande Annonce
 
-<video width="1280" height="720" controls>
-  <source src="https://www.youtube.com/watch?v=T_AHrgQZ-zI" type="video/mp4">
-</video>
+[![Arcadia | Bande Annonce et Making Of](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT_AHrgQZ-zI%26ab_channel%3DWILLBVS)](https://www.youtube.com/watch?v=T_AHrgQZ-zI&ab_channel=WILLBVS)
 
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
