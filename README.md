@@ -4,6 +4,7 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 
 ## Bande Annonce
 * [![Vidéo Bande Annonce](thumb.jgp)](https://youtu.be/T_AHrgQZ-zI)
+* <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=T_AHrgQZ-zI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
 * ![Le cabinet vue de l'intérieur](/50_diffusion/image_diffusion/cabinet_studio.JPG)
