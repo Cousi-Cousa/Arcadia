@@ -2,9 +2,9 @@
 
 Ce projet multimédia repose sur la création d'une borne d'arcade complète et d'un jeu de plateforme conçu spécifiquement pour celle-ci. Il vise à offrir aux utilisateurs une expérience de jeu interactive, tout en réintégrant l'esthétique vintage des anciennes bornes d'arcade.
 
-## Bande Annonce
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/g7DpYWR8vqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* <iframe width="1280" height="720" src="https://www.youtube.com/embed/g7DpYWR8vqA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Bande Annonce
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
 * ![Le cabinet vue de l'intérieur](/50_diffusion/image_diffusion/cabinet_studio.JPG)
