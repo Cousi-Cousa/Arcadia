@@ -4,7 +4,7 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 
 ## Bande Annonce
 
-<video width="320" height="240" controls>
+<video width="1280" height="720" controls>
   <source src="video.mov" type="video/mp4">
 </video>
 
