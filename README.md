@@ -8,7 +8,8 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 
 ## Documentation vidéo de l'installation en action
 ## Gallerie photo du projet réalisé
-* ![Le cabinet vue de l'intérieur](/50_diffusion/image_diffusion/cabinet_studio.JPG)
+* ![La grotte des slimes](grotte_slime.PNG)à
 * ![Le menu principal du jeu](menu_principal.PNG)
 * ![Le royaume des champignons](royaume_champignon.PNG)
-* ![La grotte des slimes](grotte_slime.PNG)
+* ![Le cabinet vue de l'intérieur](/50_diffusion/image_diffusion/cabinet_studio.JPG)
+  
