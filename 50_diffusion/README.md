@@ -19,7 +19,7 @@ Documentation du projet finalisé
 ## 🛠️ Instructions :
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
-   * [Lien vers le Sy](https://github.com/Cousi-Cousa/Anton-code-semaine-4)
+   * [Lien vers le Synoptique](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/30_synoptique)
 
 3. **Vérifier les connexions des haut-parleurs :**  
    Assurez-vous que la connexion entre les haut-parleurs et leurs câbles blancs est solide, ainsi que la connexion avec l’amplificateur.
