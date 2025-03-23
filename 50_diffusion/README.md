@@ -19,7 +19,6 @@ Documentation du projet finalisé
 ## 🛠️ Instructions :
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
-   * [Lien vers le Synoptique](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/30_synoptique)
 
 3. **Vérifier les connexions des haut-parleurs :**  
    Assurez-vous que la connexion entre les haut-parleurs et leurs câbles blancs est solide, ainsi que la connexion avec l’amplificateur.
@@ -45,6 +44,8 @@ Documentation du projet finalisé
 
 
 ### ⚠️ **Important :**  
+[Lien vers le Synoptique](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/30_synoptique)
+
 En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des haut-parleurs et de la carte mère du joystick peuvent se desserrer, voire être endommagées.  
 ➡️ Apportez les outils nécessaires, comme un tournevis cruciforme et plat, pour retirer les panneaux en bois si nécessaire.  
 
