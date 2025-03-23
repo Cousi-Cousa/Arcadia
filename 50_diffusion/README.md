@@ -19,23 +19,24 @@ Documentation du projet finalisé
 ## 🛠️ Instructions :
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
+   * [Lien vers le Sy](https://github.com/Cousi-Cousa/Anton-code-semaine-4)
 
-2. **Vérifier les connexions des haut-parleurs :**  
+3. **Vérifier les connexions des haut-parleurs :**  
    Assurez-vous que la connexion entre les haut-parleurs et leurs câbles blancs est solide, ainsi que la connexion avec l’amplificateur.
 
-3. **Vérifier la connexion de l'amplificateur :**  
+4. **Vérifier la connexion de l'amplificateur :**  
    Vérifiez que l’amplificateur est connecté au mini PC.
 
-4. **Vérifier la connexion du Pc et du Gamepad :**  
+5. **Vérifier la connexion du Pc et du Gamepad :**  
    Assurez-vous que le joystick et les boutons sont connectés au PC via leur câble USB.
 
-5. **Vérifier la connexion du moniteur :**  
+6. **Vérifier la connexion du moniteur :**  
    Assurez-vous que le moniteur est bien connecté au PC.
 
-6. **Vérifier la connexion du câble Ethernet :**  
+7. **Vérifier la connexion du câble Ethernet :**  
    Assurez-vous que le câble Ethernet est bien connecté au PC pour une connexion internet stable.
 
-7. **Vérifier les câbles d'alimentation :**  
+8. **Vérifier les câbles d'alimentation :**  
    Vérifiez que :
    - Le câble d’alimentation du mini PC est connecté.  
    - Le câble d’alimentation du moniteur est connecté.  
