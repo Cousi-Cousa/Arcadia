@@ -1,3 +1,3 @@
 # Synoptique
 
-* ![Synoptique](synoptique.png)
+* ![Synoptique](example.png)
