@@ -8,7 +8,9 @@ Documentation du projet finalisé
 * ![Le cabinet dans le grand studio](image_diffusion/cabinet_studio.JPG)
 
 
-* Vidéo 
+## 🎥 Tutoriel Vidéo
+[![Watch the video](https://img.youtube.com/vi/T_AHrgQZ-zI/0.jpg)](https://www.youtube.com/watch?v=T_AHrgQZ-zI)
+
 
 * Documentation vidéo de l'installation en action
 
