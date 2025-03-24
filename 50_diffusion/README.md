@@ -11,9 +11,6 @@ Documentation du projet finalisé
 ## 🎥 Vidéo
 [![Watch the video](https://img.youtube.com/vi/T_AHrgQZ-zI/0.jpg)](https://www.youtube.com/watch?v=T_AHrgQZ-zI)
 
-
-* Manuel d'instruction pour opération
-
 # Assemblage Complet à Partir de Zéro
 
 ## 🛠️ **Partie 1 : Achat des Pièces Nécessaires**
