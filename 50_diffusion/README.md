@@ -22,6 +22,7 @@ Documentation du projet finalisé
    - Achetez les pièces en bois nécessaires chez **RONA** pour le couvercle du chariot.  
    - Achetez également les vis et le mécanisme de verrouillage.
    - Acheter des **charnières** pour la porte arrière.
+   - Achetez toutes les pièces électroniques nécessaires comme le kit joystick
 
 2. **Commander le kit de borne d'arcade :**
    
