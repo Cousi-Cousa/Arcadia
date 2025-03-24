@@ -18,11 +18,14 @@ Documentation du projet finalisé
 # ✅ Assemblage Complet à Partir de Zéro
 
 ## 🛠️ **Partie 1 : Achat des Pièces Nécessaires**
-1. **Acheter les pièces en bois :**  
+1. **Acheter les pièces :**  
    - Achetez les pièces en bois nécessaires chez **RONA** pour le couvercle du chariot.  
    - Achetez également les vis et le mécanisme de verrouillage.
    - Acheter des **charnières** pour la porte arrière.
    - Achetez toutes les pièces électroniques nécessaires comme le kit joystick
+   - **Références du budget :**  
+   Consultez le budget du projet pour plus d'informations sur le coût des pièces :  
+   ➡️ [Budget du projet](https://cousi-cousa.github.io/Arcadia/#/30_production/20_budget/)  
 
 2. **Commander le kit de borne d'arcade :**
    
@@ -36,10 +39,6 @@ Documentation du projet finalisé
    - 🕐 Horaires :  
      - Lundi à samedi : **9h à 20h**  
      - Dimanche : **11h à 20h** (sur rendez-vous seulement)  
-
-4. **Références du budget :**  
-   Consultez le budget du projet pour plus d'informations sur le coût des pièces :  
-   ➡️ [Budget du projet](https://cousi-cousa.github.io/Arcadia/#/30_production/20_budget/)  
 
 ---
 
