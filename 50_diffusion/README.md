@@ -14,9 +14,67 @@ Documentation du projet finalisé
 
 * Manuel d'instruction pour opération
 
+
+# ✅ Assemblage Complet à Partir de Zéro
+
+## 🛠️ **Partie 1 : Achat des Pièces Nécessaires**
+1. **Acheter les pièces en bois :**  
+   - Achetez les pièces en bois nécessaires chez **RONA** pour le couvercle du chariot.  
+   - Achetez également les vis et le mécanisme de verrouillage.  
+
+2. **Commander le kit de borne d'arcade :**  
+   Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
+   ➡️ **Contactez le propriétaire du site par e-mail** pour vérifier la disponibilité des pièces :  
+   - 📧 Email : [info@thehomearcade.ca](mailto:info@thehomearcade.ca) ou [thehomearcade@gmail.com](mailto:thehomearcade@gmail.com)  
+   - ☎️ Téléphone : **519-572-6011**  
+   - 🏢 Adresse : **1201 Franklin Blvd Unit #1, Cambridge, Ontario. N1R-6R7**  
+   - 🕐 Horaires :  
+     - Lundi à samedi : **9h à 20h**  
+     - Dimanche : **11h à 20h** (sur rendez-vous seulement)  
+
+3. **Références du budget :**  
+   Consultez le budget du projet pour plus d'informations sur le coût des pièces :  
+   ➡️ [Budget du projet](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/20_budget)  
+
+---
+
+## 🛠️ **Partie 2 : Assemblage du Boîtier en Bois**
+1. **Assembler la borne d'arcade :**  
+   - Suivez les instructions de montage fournies avec le kit.  
+   - Fixez les panneaux latéraux, le panneau avant et le panneau arrière à l’aide de vis.  
+   - Montez le cadre du moniteur à l'intérieur de la borne.  
+
+2. **Installer le panneau de contrôle :**  
+   - Installez le joystick et les boutons sur le panneau de contrôle.  
+   - Connectez les câbles des boutons et du joystick à la carte mère du contrôleur.  
+
+3. **Installer le système audio :**  
+   - Fixez les haut-parleurs à l'intérieur de la borne.  
+   - Branchez les câbles des haut-parleurs à l'amplificateur.  
+
+4. **Installer le mini PC et l'écran :**  
+   - Montez le mini PC à l’intérieur de la borne.  
+   - Fixez le moniteur au cadre.  
+   - Connectez le moniteur au mini PC avec un câble HDMI.  
+
+5. **Connecter le système d'alimentation :**  
+   - Connectez le mini PC, le moniteur et l’amplificateur à la multiprise (rallonge).  
+   - Assurez-vous que les câbles d'alimentation sont bien organisés pour éviter tout risque de chute.  
+
+---
+
+### ✅ **Conseil :**  
+Si vous rencontrez des difficultés lors de l'assemblage :  
+- Vérifiez la documentation fournie avec le kit.  
+- Contactez le support de **The Home Arcade** en utilisant les coordonnées mentionnées ci-dessus.  
+
+
+
+
+
 # ✅ Étape 1 : Vérification des Connexions et Fonctionnalités Internes
 
-## 🛠️ Instructions :
+### 🛠️ Instructions :
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
 
@@ -52,9 +110,9 @@ En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des 
 
 ---
 
-# ✅ Étape 2 : Installation du Projet
+## ✅ Étape 2 : Installation du Projet
 
-## 🛠️ Instructions :
+### 🛠️ Instructions :
 1. **Fermer le panneau arrière :**  
    Après avoir vérifié que tous les éléments internes sont bien connectés, fermez le panneau arrière de la borne d'arcade.
 
@@ -95,9 +153,9 @@ Avant d'ouvrir le projet :
 
 ---
 
-# ✅ Étape 3 : Lancement du Projet
+## ✅ Étape 3 : Lancement du Projet
 
-## 🛠️ Instructions :
+### 🛠️ Instructions :
 1. **Vérifier le son, la connexion internet et la manette :**  
    - Assurez-vous que le son fonctionne correctement.  
    - **Si le son est trop fort ou trop faible, ajustez-le à l'aide de la molette sur l'amplificateur.**  
