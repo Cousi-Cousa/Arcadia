@@ -27,7 +27,7 @@ Documentation du projet finalisé
    
    ⚠️ **Important**
    
-   Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
+   Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible. **[The Home Arcade Page](https://thehomearcade.ca/diy-flat-pack-kit-not-assembled/)** 
    ➡️ **Contactez le propriétaire du site par e-mail** pour vérifier la disponibilité des pièces :  
    - 📧 Email : [info@thehomearcade.ca](mailto:info@thehomearcade.ca) ou [thehomearcade@gmail.com](mailto:thehomearcade@gmail.com)  
    - ☎️ Téléphone : **519-572-6011**  
