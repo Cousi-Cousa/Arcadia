@@ -24,7 +24,9 @@ Documentation du projet finalisé
    - Acheter des **charnières** pour la porte arrière.
 
 2. **Commander le kit de borne d'arcade :**
+   
    ⚠️ **Important :**
+   
    Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
    ➡️ **Contactez le propriétaire du site par e-mail** pour vérifier la disponibilité des pièces :  
    - 📧 Email : [info@thehomearcade.ca](mailto:info@thehomearcade.ca) ou [thehomearcade@gmail.com](mailto:thehomearcade@gmail.com)  
