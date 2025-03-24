@@ -15,7 +15,7 @@ Documentation du projet finalisé
 * Manuel d'instruction pour opération
 
 
-# ✅ Assemblage Complet à Partir de Zéro
+# Assemblage Complet à Partir de Zéro
 
 ## 🛠️ **Partie 1 : Achat des Pièces Nécessaires**
 1. **Acheter les pièces :**  
@@ -140,28 +140,40 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 
 6. **Vérification finale :**  
    - Vérifiez que toutes les connexions sont solides.  
-   - Testez les boutons et le joystick pour vous assurer qu'ils répondent correctement.  
    - Assurez-vous que la carte mère est bien isolée et sécurisée.  
 
 ---
 
 ## 🛠️ **Partie 5 : Vérification Finale et Finitions**
-1. **Vérifier la configuration générale :**  
+1. **Construire le couvercle du chariot (optionnel) :**  
+   - Le couvercle en bois est une pièce décorative optionnelle conçue pour masquer le chariot utilisé pour le transport du projet.  
+   - Il est fabriqué à partir de **5 planches de bois** connectées avec des **vis** et peintes en noir pour correspondre à l’apparence de la borne d'arcade.  
+   
+   **Étapes :**  
+   - Prenez les mesures du chariot.  
+   - Découpez les planches de bois à la taille correcte.  
+   - Peignez les planches en **noir**.  
+   - Vissez les planches ensemble pour former une **structure carrée**.  
+   - Faites un trou au centre supérieur pour faciliter le transport.  
+   - ✅ Le trou doit être **caché par la borne** une fois qu’elle est en place.
+
+
+2. **Vérifier la configuration générale :**  
    - Vérifiez que toutes les pièces sont bien en place et qu'il n'y a **pas d'espace vide inutile**.  
    - Dans notre cas, nous avons ajouté un **couvercle personnalisé autour de l'écran** fabriqué en bois pour masquer le câblage.  
      - Ce couvercle est **optionnel** — vous pouvez le personnaliser selon vos préférences.  
 
-2. **Nettoyer la borne :**  
+3. **Nettoyer la borne :**  
    - Nettoyez toutes les surfaces pour enlever la **poussière** et les résidus de **colle**.  
    - Assurez-vous que toutes les parties visibles sont propres et esthétiques.  
 
-3. **Ajouter des décorations et accessoires :**  
+4. **Ajouter des décorations et accessoires :**  
    - C'est le moment de personnaliser la borne !  
    - Dans notre exemple :  
      - Nous avons ajouté du **caoutchouc** autour de tous les coins exposés de la borne.  
      - Les bandes de protection en caoutchouc devraient être fournies avec le kit de pièces en bois.  
 
-4. **Installer les composants électroniques :**  
+5. **Installer les composants électroniques :**  
    - Contrairement aux haut-parleurs, à la carte mère et au moniteur (qui sont fixes), d'autres composants sont laissés libres à l'intérieur de la borne :  
      - **Mini PC**  
      - **Amplificateur de son**  
@@ -171,7 +183,7 @@ Si vous rencontrez des difficultés lors de l'assemblage :
      - Donnez à chaque composant un **emplacement spécifique** à l'intérieur de la borne.  
      - Utilisez du **ruban adhésif** pour fixer les câbles excédentaires le long des parois internes.  
 
-5. **Vérification finale :**  
+6. **Vérification finale :**  
    - Une fois que tous les composants sont en place, passez à l'étape de **Vérification des Connexions et Fonctionnalités Internes**.  
    - Testez le son, la connexion internet, le joystick et les boutons pour vous assurer que tout fonctionne correctement.  
 
@@ -182,8 +194,8 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 ---
 
 # Vérification des Connexions et Fonctionnalités Internes
-## ✅ Étape 1 : Connexions
-### 🛠️ Instructions :
+## 🛠️ Étape 1 : Connexions
+
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
 
@@ -219,9 +231,8 @@ En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des 
 
 ---
 
-## ✅ Étape 2 : Installation du Projet
+## 🛠️ Étape 2 : Installation du Projet
 
-### 🛠️ Instructions :
 1. **Fermer le panneau arrière :**  
    Après avoir vérifié que tous les éléments internes sont bien connectés, fermez le panneau arrière de la borne d'arcade.
 
@@ -262,9 +273,8 @@ Avant d'ouvrir le projet :
 
 ---
 
-## ✅ Étape 3 : Lancement du Projet
+## 🛠️ Étape 3 : Lancement du Projet
 
-### 🛠️ Instructions :
 1. **Vérifier le son, la connexion internet et la manette :**  
    - Assurez-vous que le son fonctionne correctement.  
    - **Si le son est trop fort ou trop faible, ajustez-le à l'aide de la molette sur l'amplificateur.**  
