@@ -104,20 +104,27 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 ---
 
 ## 🛠️ **Partie 4 : Installation des Composants Internes**
-1. **Installer les haut-parleurs :**  
+1. **Installer le moniteur :**  
+     - Commencez par fixer le moniteur à l'intérieur de la borne :  
+     - Placez le moniteur dans son emplacement prévu.  
+     - Vous devriez avoir déjà fixé **deux pièces métalliques** de chaque côté de la borne, conçues pour soutenir le cadre en bois qui maintient le moniteur.  
+     - Utilisez des **vis** pour sécuriser le moniteur dans son cadre.  
+     - ⚠️ **Assistance recommandée** : Cette étape nécessite une deuxième personne pour tenir le moniteur pendant que vous le fixez.  
+
+2. **Installer les haut-parleurs :**  
    - Les haut-parleurs ont été démontés jusqu'à leurs composants de base pour pouvoir s'adapter à l'espace prévu dans la borne.  
    - Si vous trouvez des haut-parleurs plus petits de même qualité, vous pouvez les utiliser à la place.  
    - Fixez les haut-parleurs avec des **vis** pour qu'ils soient bien en place.  
    - **Connectez les haut-parleurs** en utilisant un câblage personnalisé adapté à votre installation.  
 
-2. **Installer la carte mère de la manette :**  
+3. **Installer la carte mère de la manette :**  
    - ⚠️ **Attention :** La carte mère est sensible au métal.  
      - Recouvrez la carte avec du **ruban isolant électrique** pour éviter tout court-circuit.  
      - Ne laissez jamais la carte mère en contact direct avec une surface métallique.  
-       👉 **Lien de la carte mère**
+   - 👉 **Lien de la carte mère** :  
      - [Carte mère pour manette (Amazon)](https://www.amazon.ca/-/fr/dp/B07BNDJW3C) *(Vérifiez la disponibilité si le lien est cassé)*  
 
-3. **Connecter le joystick et les boutons :**  
+4. **Connecter le joystick et les boutons :**  
    - Le **joystick** se connecte via son propre port dédié.  
    - Les **boutons** se connectent directement à la carte mère à l’aide de ports spécifiques :  
      - La carte mère dispose d'une douzaine de ports pour les boutons.  
@@ -126,14 +133,15 @@ Si vous rencontrez des difficultés lors de l'assemblage :
        - **Port 1** → Bouton rouge (Attaque)  
      - Vous pouvez reconfigurer ces connexions, mais dans ce cas, vous devrez également **modifier le code** du jeu pour refléter les nouveaux ports.  
 
-4. **Fixer la carte mère :**  
+5. **Fixer la carte mère :**  
    - Après avoir connecté les boutons et le joystick :  
      - Utilisez du **ruban adhésif** pour maintenir la carte mère sous le panneau de contrôle.  
      - Placez le panneau de contrôle en place.  
      - Fixez le panneau en bois à l’aide de **vis** pour qu'il soit stable.  
 
-5. **Vérification finale :**  
-   - Vérifiez que toutes les connexions sont solides.
+6. **Vérification finale :**  
+   - Vérifiez que toutes les connexions sont solides.  
+   - Testez les boutons et le joystick pour vous assurer qu'ils répondent correctement.  
    - Assurez-vous que la carte mère est bien isolée et sécurisée.  
 
 ---
@@ -174,8 +182,8 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 
 ---
 
-# ✅ Étape 1 : Vérification des Connexions et Fonctionnalités Internes
-
+# Vérification des Connexions et Fonctionnalités Internes
+## ✅ Étape 1 : Connexions
 ### 🛠️ Instructions :
 1. **Ouvrir la borne d'arcade :**  
    Utilisez une clé pour ouvrir le panneau arrière de la borne d'arcade.
