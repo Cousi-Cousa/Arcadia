@@ -20,7 +20,8 @@ Documentation du projet finalisé
 ## 🛠️ **Partie 1 : Achat des Pièces Nécessaires**
 1. **Acheter les pièces en bois :**  
    - Achetez les pièces en bois nécessaires chez **RONA** pour le couvercle du chariot.  
-   - Achetez également les vis et le mécanisme de verrouillage.  
+   - Achetez également les vis et le mécanisme de verrouillage.
+   - Acheter des **charnières** pour la porte arrière.
 
 2. **Commander le kit de borne d'arcade :**  
    Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
@@ -39,29 +40,57 @@ Documentation du projet finalisé
 ---
 
 ## 🛠️ **Partie 2 : Assemblage du Boîtier en Bois**
-1. **Assembler la borne d'arcade :**  
-   - Suivez les instructions de montage fournies avec le kit.  
-   - Fixez les panneaux latéraux, le panneau avant et le panneau arrière à l’aide de vis.  
-   - Montez le cadre du moniteur à l'intérieur de la borne.  
+1. **Préparer votre espace de travail :**  
+   - Assurez-vous de disposer d’un espace de travail suffisamment grand pour le montage.  
+   - Préparez une bonne réserve de **colle à bois**.  
+   - Préparez également des **serre-joints** pour maintenir les pièces en bois en place pendant le processus de collage.  
 
-2. **Installer le panneau de contrôle :**  
-   - Installez le joystick et les boutons sur le panneau de contrôle.  
-   - Connectez les câbles des boutons et du joystick à la carte mère du contrôleur.  
+2. **Suivre les instructions du fabricant :**  
+   Après avoir obtenu toutes les pièces nécessaires, suivez les instructions fournies par le propriétaire du site.  
+   ➡️ Si vous n’avez pas de manuel, contactez le propriétaire du site :  
+   - 📧 Email : [info@thehomearcade.ca](mailto:info@thehomearcade.ca) ou [thehomearcade@gmail.com](mailto:thehomearcade@gmail.com)  
 
-3. **Installer le système audio :**  
-   - Fixez les haut-parleurs à l'intérieur de la borne.  
-   - Branchez les câbles des haut-parleurs à l'amplificateur.  
+3. **Fixer les parties métalliques :**  
+   - Assurez-vous d'avoir les **perceuses** nécessaires pour fixer les pièces métalliques fournies avec le kit.  
+   - Fixez les supports métalliques destinés à maintenir le **joystick** et les **boutons** du gamepad.  
+   - Fixez également les supports qui maintiendront le **moniteur** en place.  
 
-4. **Installer le mini PC et l'écran :**  
-   - Montez le mini PC à l’intérieur de la borne.  
-   - Fixez le moniteur au cadre.  
-   - Connectez le moniteur au mini PC avec un câble HDMI.  
+4. **Installer les charnières pour la porte arrière :**  
+   - N'oubliez pas d'acheter des **charnières** pour la porte arrière du boîtier.  
+   - Fixez les charnières avec des vis adaptées à la structure en bois.  
+   - Vérifiez que la porte arrière s'ouvre et se ferme correctement.  
 
-5. **Connecter le système d'alimentation :**  
-   - Connectez le mini PC, le moniteur et l’amplificateur à la multiprise (rallonge).  
-   - Assurez-vous que les câbles d'alimentation sont bien organisés pour éviter tout risque de chute.  
+5. **Vérification finale :**  
+   - Vérifiez que toutes les pièces sont solidement fixées.  
+   - Laissez la colle sécher complètement avant de poursuivre l’installation.
 
 ---
+
+## 🛠️ **Partie 3 : Ajustement et Personnalisation des Pièces en Bois**
+1. **Vérifier la structure de la borne :**  
+   - Après avoir fixé toutes les pièces en bois principales avec de la colle, assurez-vous que la forme générale de la borne est stable et solide.  
+
+2. **Ajuster le panneau des boutons :**  
+   - Il est possible que le panneau conçu pour les boutons ait trop de trous ou soit trop petit pour accueillir correctement les boutons.  
+   - Testez d'abord si les boutons s’insèrent correctement dans les trous.  
+   - Si les trous sont trop petits :  
+     - Utilisez une **ponceuse cylindrique automatique** pour élargir légèrement les trous.  
+     - Faites des pauses fréquentes pour éviter de rendre les trous trop grands.  
+
+3. **Créer une pièce personnalisée pour masquer les trous inutilisés :**  
+   - Si certains trous restent inutilisés :  
+     - Découpez une fine plaque de bois dans la forme de la pièce d’origine.  
+     - Percez de nouveaux trous avec une **mèche circulaire** adaptée au diamètre des boutons.  
+     - Peignez la nouvelle pièce pour un rendu uniforme et esthétique.  
+
+4. **Créer une pièce personnalisée pour couvrir les haut-parleurs :**  
+   - Vous pouvez fabriquer une autre pièce similaire pour couvrir la zone supérieure de la borne où sont situés les haut-parleurs.  
+   - Il est essentiel de couvrir cette zone pour éviter que les fils et les haut-parleurs soient visibles.  
+
+5. **Vérification finale :**  
+   - Vérifiez que toutes les pièces personnalisées sont bien fixées.  
+   - Assurez-vous que la peinture est sèche et que l'ensemble est propre avant de continuer.  
+
 
 ### ✅ **Conseil :**  
 Si vous rencontrez des difficultés lors de l'assemblage :  
