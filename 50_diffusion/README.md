@@ -25,7 +25,7 @@ Documentation du projet finalisé
 
 2. **Commander le kit de borne d'arcade :**
    
-   ⚠️ **Important :**
+   ⚠️ **Important**
    
    Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
    ➡️ **Contactez le propriétaire du site par e-mail** pour vérifier la disponibilité des pièces :  
