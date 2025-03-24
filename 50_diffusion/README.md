@@ -145,7 +145,7 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 
 ---
 
-## 🛠️ **Partie 6 : Vérification Finale et Finitions**
+## 🛠️ **Partie 5 : Vérification Finale et Finitions**
 1. **Vérifier la configuration générale :**  
    - Vérifiez que toutes les pièces sont bien en place et qu'il n'y a **pas d'espace vide inutile**.  
    - Dans notre cas, nous avons ajouté un **couvercle personnalisé autour de l'écran** fabriqué en bois pour masquer le câblage.  
