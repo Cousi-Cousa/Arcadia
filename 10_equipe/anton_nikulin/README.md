@@ -68,17 +68,7 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
 - J'ai finalisé le câblage de l'ensemble de la borne.
 
 - #### Aperçus de la Semaine 7  
-* ![S3 Exemple de l'ennemi slime.](box2.jpg)
 * ![S3 Exemple de l'ennemi champignon.](box3.jpg)
-
-<p align="center">
-  <img src="box2.jpg" alt="Structure en bois - Étape 2" width="400">
-</p>
-
-<p align="center">
-  <img src="box3.jpg" alt="Structure en bois - Étape 3" width="400">
-</p>
-
 
 
 
