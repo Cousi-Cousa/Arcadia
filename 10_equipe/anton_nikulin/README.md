@@ -56,9 +56,9 @@ Grâce à ces améliorations, les mécaniques de combat sont désormais plus flu
 ### Semaine 6  
 - J'ai réussi à implémenter l'animation de mort du joueur avec l'aide d'un collègue.  
 - J'ai commencé à ajouter du code CSS pour améliorer le style du jeu.  
-- J'ai également corrigé plusieurs bugs dans le code existant.  
-- Début du travail d'assemblage de la structure en bois de la borne d'arcade.  
-
+- J'ai également corrigé plusieurs bugs dans le code existant.
+- Les travaux d'assemblage de la structure en bois du terminal d'arcade commencent. À la fin de cette semaine, j'ai fait d'énormes progrès, seuls quelques ajustements mineurs et des pièces doivent être mis en place.
+  
 #### Aperçus de la Semaine 6  
 ![Structure en bois - Étape 1](box1.jpg)  
 
