@@ -58,7 +58,8 @@ Documentation du projet finalisé
 4. **Installer les charnières pour la porte arrière :**  
    - N'oubliez pas d'acheter des **charnières** pour la porte arrière du boîtier.  
    - Fixez les charnières avec des vis adaptées à la structure en bois.  
-   - Vérifiez que la porte arrière s'ouvre et se ferme correctement.  
+   - Vérifiez que la porte arrière s'ouvre et se ferme correctement.
+   - Ajoutez également le mécanisme de verrouillage si vous le souhaitez
 
 5. **Vérification finale :**  
    - Vérifiez que toutes les pièces sont solidement fixées.  
