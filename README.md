@@ -5,9 +5,8 @@ Ce projet multimédia repose sur la création d'une borne d'arcade complète et 
 ## Bande Annonce
 
 [![Arcadia | Bande Annonce et Making Of](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT_AHrgQZ-zI%26ab_channel%3DWILLBVS)](https://www.youtube.com/watch?v=T_AHrgQZ-zI&ab_channel=WILLBVS)
-
-
 ## Documentation vidéo de l'installation en action
+[![Documentation vidéo de l'installation en action](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FP7F0teOHoxY)](https://youtu.be/P7F0teOHoxY)
 ## Gallerie photo du projet réalisé
 * ![Le menu principal du jeu](menu_principal.PNG)
 * ![La grotte des slimes](grotte_slime.PNG)à
