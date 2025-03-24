@@ -138,6 +138,42 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 
 ---
 
+## 🛠️ **Partie 6 : Vérification Finale et Finitions**
+1. **Vérifier la configuration générale :**  
+   - Vérifiez que toutes les pièces sont bien en place et qu'il n'y a **pas d'espace vide inutile**.  
+   - Dans notre cas, nous avons ajouté un **couvercle personnalisé autour de l'écran** fabriqué en bois pour masquer le câblage.  
+     - Ce couvercle est **optionnel** — vous pouvez le personnaliser selon vos préférences.  
+
+2. **Nettoyer la borne :**  
+   - Nettoyez toutes les surfaces pour enlever la **poussière** et les résidus de **colle**.  
+   - Assurez-vous que toutes les parties visibles sont propres et esthétiques.  
+
+3. **Ajouter des décorations et accessoires :**  
+   - C'est le moment de personnaliser la borne !  
+   - Dans notre exemple :  
+     - Nous avons ajouté du **caoutchouc** autour de tous les coins exposés de la borne.  
+     - Les bandes de protection en caoutchouc devraient être fournies avec le kit de pièces en bois.  
+
+4. **Installer les composants électroniques :**  
+   - Contrairement aux haut-parleurs, à la carte mère et au moniteur (qui sont fixes), d'autres composants sont laissés libres à l'intérieur de la borne :  
+     - **Mini PC**  
+     - **Amplificateur de son**  
+     - **Multiprise (rallonge)**  
+     - **Souris** et **clavier**  
+   - L'objectif principal est d’organiser les câbles pour éviter tout désordre :  
+     - Donnez à chaque composant un **emplacement spécifique** à l'intérieur de la borne.  
+     - Utilisez du **ruban adhésif** pour fixer les câbles excédentaires le long des parois internes.  
+
+5. **Vérification finale :**  
+   - Une fois que tous les composants sont en place, passez à l'étape de **Vérification des Connexions et Fonctionnalités Internes**.  
+   - Testez le son, la connexion internet, le joystick et les boutons pour vous assurer que tout fonctionne correctement.  
+
+### ⚠️ **Conseil :**  
+- Ne laissez aucun câble traîner librement à l'intérieur de la borne — fixez-les toujours avec du ruban adhésif pour éviter tout court-circuit ou problème futur.  
+- Si vous rencontrez un problème de connexion ou de réponse des boutons, consultez la section sur la **Vérification des Connexions**.  
+
+---
+
 # ✅ Étape 1 : Vérification des Connexions et Fonctionnalités Internes
 
 ### 🛠️ Instructions :
