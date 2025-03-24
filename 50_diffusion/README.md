@@ -34,7 +34,7 @@ Documentation du projet finalisé
 
 3. **Références du budget :**  
    Consultez le budget du projet pour plus d'informations sur le coût des pièces :  
-   ➡️ [Budget du projet](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/20_budget)  
+   ➡️ [Budget du projet](https://cousi-cousa.github.io/Arcadia/#/30_production/20_budget/)  
 
 ---
 
