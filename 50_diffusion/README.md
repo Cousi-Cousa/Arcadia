@@ -23,7 +23,8 @@ Documentation du projet finalisé
    - Achetez également les vis et le mécanisme de verrouillage.
    - Acheter des **charnières** pour la porte arrière.
 
-2. **Commander le kit de borne d'arcade :**  
+2. **Commander le kit de borne d'arcade :**
+   ⚠️ **Important :**
    Le kit d'arcade d'origine a été acheté sur **[The Home Arcade](https://thehomearcade.ca/)**, mais la page du produit n'est plus disponible.  
    ➡️ **Contactez le propriétaire du site par e-mail** pour vérifier la disponibilité des pièces :  
    - 📧 Email : [info@thehomearcade.ca](mailto:info@thehomearcade.ca) ou [thehomearcade@gmail.com](mailto:thehomearcade@gmail.com)  
@@ -33,7 +34,7 @@ Documentation du projet finalisé
      - Lundi à samedi : **9h à 20h**  
      - Dimanche : **11h à 20h** (sur rendez-vous seulement)  
 
-3. **Références du budget :**  
+4. **Références du budget :**  
    Consultez le budget du projet pour plus d'informations sur le coût des pièces :  
    ➡️ [Budget du projet](https://cousi-cousa.github.io/Arcadia/#/30_production/20_budget/)  
 
@@ -92,8 +93,7 @@ Documentation du projet finalisé
    - Vérifiez que toutes les pièces personnalisées sont bien fixées.  
    - Assurez-vous que la peinture est sèche et que l'ensemble est propre avant de continuer.  
 
-
-### ✅ **Conseil :**  
+### ⚠️ **Conseil :**  
 Si vous rencontrez des difficultés lors de l'assemblage :  
 - Vérifiez la documentation fournie avec le kit.  
 - Contactez le support de **The Home Arcade** en utilisant les coordonnées mentionnées ci-dessus.  
