@@ -102,7 +102,7 @@ Si vous rencontrez des difficultés lors de l'assemblage :
 
 
 ### ⚠️ **Important :**  
-[Lien vers le Synoptique](https://github.com/Cousi-Cousa/Arcadia/tree/main/30_production/30_synoptique)
+[Lien vers le Synoptique](https://cousi-cousa.github.io/Arcadia/#/30_production/30_synoptique/)
 
 En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des haut-parleurs et de la carte mère du joystick peuvent se desserrer, voire être endommagées.  
 ➡️ Apportez les outils nécessaires, comme un tournevis cruciforme et plat, pour retirer les panneaux en bois si nécessaire.  
