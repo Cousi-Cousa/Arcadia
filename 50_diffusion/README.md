@@ -244,13 +244,13 @@ En raison de l'usure ou d'un manque d'entretien, les connexions des câbles des 
 
 4. **Brancher les câbles d'alimentation et Ethernet :**  
    Une fois l'emplacement trouvé :  
-   - Branchez le câble d'alimentation à une prise murale.  
-   - Branchez le câble Ethernet à une prise réseau murale.  
-   - **Assurez-vous de brancher le câble Ethernet sur le port n°219.**  
+   - Branchez le câble d'alimentation à une prise ⚡.  
+   - Branchez le câble Ethernet à une prise réseau 🌐.  
+   - **Assurez-vous de brancher le câble Ethernet sur le port n°219. **  
    - Si la connexion réseau ne fonctionne pas, accédez à la salle des matrices et assurez-vous que le port 219 est actif et correctement connecté.  
    - Assurez-vous que les câbles ne traînent pas par terre pour éviter les risques de chute.  
 
-5. **Vérifier la connexion internet :**  
+5. **Vérifier la connexion internet 🌐 :**  
    Assurez-vous que la prise réseau est bien connectée au réseau principal et qu'une connexion internet est active.
 
 6. **Allumer le mini PC et le moniteur :**  
