@@ -114,7 +114,7 @@ Si vous rencontrez des difficultés lors de l'assemblage :
    - ⚠️ **Attention :** La carte mère est sensible au métal.  
      - Recouvrez la carte avec du **ruban isolant électrique** pour éviter tout court-circuit.  
      - Ne laissez jamais la carte mère en contact direct avec une surface métallique.  
-   - 👉 **Lien de la carte mère** :  
+       👉 **Lien de la carte mère**
      - [Carte mère pour manette (Amazon)](https://www.amazon.ca/-/fr/dp/B07BNDJW3C) *(Vérifiez la disponibilité si le lien est cassé)*  
 
 3. **Connecter le joystick et les boutons :**  
@@ -133,8 +133,7 @@ Si vous rencontrez des difficultés lors de l'assemblage :
      - Fixez le panneau en bois à l’aide de **vis** pour qu'il soit stable.  
 
 5. **Vérification finale :**  
-   - Vérifiez que toutes les connexions sont solides.  
-   - Testez les boutons et le joystick pour vous assurer qu'ils répondent correctement.  
+   - Vérifiez que toutes les connexions sont solides.
    - Assurez-vous que la carte mère est bien isolée et sécurisée.  
 
 ---
